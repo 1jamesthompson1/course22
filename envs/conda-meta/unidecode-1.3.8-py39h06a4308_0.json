@@ -1,0 +1,3211 @@
+{
+  "build": "py39h06a4308_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/home/james/miniconda3/pkgs/unidecode-1.3.8-py39h06a4308_0",
+  "files": [
+    "bin/unidecode",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/LICENSE",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/METADATA",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/RECORD",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/WHEEL",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/entry_points.txt",
+    "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/unidecode/__init__.py",
+    "lib/python3.9/site-packages/unidecode/__main__.py",
+    "lib/python3.9/site-packages/unidecode/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/__main__.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/util.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x000.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x001.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x002.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x003.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x004.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x005.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x006.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x007.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x009.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x00a.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x00b.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x00c.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x00d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x00e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x00f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x010.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x011.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x012.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x013.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x014.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x015.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x016.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x017.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x018.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x01d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x01e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x01f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x020.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x021.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x022.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x023.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x024.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x025.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x026.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x027.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x028.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x029.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x02a.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x02c.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x02e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x02f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x030.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x031.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x032.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x033.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x04d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x04e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x04f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x050.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x051.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x052.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x053.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x054.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x055.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x056.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x057.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x058.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x059.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x05a.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x05b.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x05c.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x05d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x05e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x05f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x060.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x061.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x062.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x063.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x064.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x065.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x066.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x067.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x068.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x069.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x06a.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x06b.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x06c.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x06d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x06e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x06f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x070.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x071.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x072.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x073.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x074.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x075.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x076.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x077.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x078.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x079.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x07a.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x07b.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x07c.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x07d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x07e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x07f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x080.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x081.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x082.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x083.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x084.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x085.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x086.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x087.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x088.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x089.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x08a.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x08b.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x08c.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x08d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x08e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x08f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x090.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x091.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x092.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x093.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x094.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x095.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x096.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x097.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x098.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x099.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x09a.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x09b.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x09c.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x09d.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x09e.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x09f.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0a0.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0a1.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0a2.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0a3.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0a4.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0ac.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0ad.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0ae.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0af.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b0.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b1.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b2.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b3.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b4.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b5.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b6.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b7.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b8.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0b9.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0ba.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0bb.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0bc.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0bd.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0be.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0bf.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c0.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c1.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c2.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c3.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c4.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c5.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c6.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c7.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c8.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0c9.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0ca.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0cb.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0cc.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0cd.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0ce.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0cf.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d0.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d1.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d2.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d3.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d4.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d5.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d6.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0d7.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0f9.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0fa.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0fb.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0fc.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0fd.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0fe.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x0ff.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x1d4.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x1d5.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x1d6.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x1d7.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x1f1.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/__pycache__/x1f6.cpython-39.pyc",
+    "lib/python3.9/site-packages/unidecode/py.typed",
+    "lib/python3.9/site-packages/unidecode/util.py",
+    "lib/python3.9/site-packages/unidecode/x000.py",
+    "lib/python3.9/site-packages/unidecode/x001.py",
+    "lib/python3.9/site-packages/unidecode/x002.py",
+    "lib/python3.9/site-packages/unidecode/x003.py",
+    "lib/python3.9/site-packages/unidecode/x004.py",
+    "lib/python3.9/site-packages/unidecode/x005.py",
+    "lib/python3.9/site-packages/unidecode/x006.py",
+    "lib/python3.9/site-packages/unidecode/x007.py",
+    "lib/python3.9/site-packages/unidecode/x009.py",
+    "lib/python3.9/site-packages/unidecode/x00a.py",
+    "lib/python3.9/site-packages/unidecode/x00b.py",
+    "lib/python3.9/site-packages/unidecode/x00c.py",
+    "lib/python3.9/site-packages/unidecode/x00d.py",
+    "lib/python3.9/site-packages/unidecode/x00e.py",
+    "lib/python3.9/site-packages/unidecode/x00f.py",
+    "lib/python3.9/site-packages/unidecode/x010.py",
+    "lib/python3.9/site-packages/unidecode/x011.py",
+    "lib/python3.9/site-packages/unidecode/x012.py",
+    "lib/python3.9/site-packages/unidecode/x013.py",
+    "lib/python3.9/site-packages/unidecode/x014.py",
+    "lib/python3.9/site-packages/unidecode/x015.py",
+    "lib/python3.9/site-packages/unidecode/x016.py",
+    "lib/python3.9/site-packages/unidecode/x017.py",
+    "lib/python3.9/site-packages/unidecode/x018.py",
+    "lib/python3.9/site-packages/unidecode/x01d.py",
+    "lib/python3.9/site-packages/unidecode/x01e.py",
+    "lib/python3.9/site-packages/unidecode/x01f.py",
+    "lib/python3.9/site-packages/unidecode/x020.py",
+    "lib/python3.9/site-packages/unidecode/x021.py",
+    "lib/python3.9/site-packages/unidecode/x022.py",
+    "lib/python3.9/site-packages/unidecode/x023.py",
+    "lib/python3.9/site-packages/unidecode/x024.py",
+    "lib/python3.9/site-packages/unidecode/x025.py",
+    "lib/python3.9/site-packages/unidecode/x026.py",
+    "lib/python3.9/site-packages/unidecode/x027.py",
+    "lib/python3.9/site-packages/unidecode/x028.py",
+    "lib/python3.9/site-packages/unidecode/x029.py",
+    "lib/python3.9/site-packages/unidecode/x02a.py",
+    "lib/python3.9/site-packages/unidecode/x02c.py",
+    "lib/python3.9/site-packages/unidecode/x02e.py",
+    "lib/python3.9/site-packages/unidecode/x02f.py",
+    "lib/python3.9/site-packages/unidecode/x030.py",
+    "lib/python3.9/site-packages/unidecode/x031.py",
+    "lib/python3.9/site-packages/unidecode/x032.py",
+    "lib/python3.9/site-packages/unidecode/x033.py",
+    "lib/python3.9/site-packages/unidecode/x04d.py",
+    "lib/python3.9/site-packages/unidecode/x04e.py",
+    "lib/python3.9/site-packages/unidecode/x04f.py",
+    "lib/python3.9/site-packages/unidecode/x050.py",
+    "lib/python3.9/site-packages/unidecode/x051.py",
+    "lib/python3.9/site-packages/unidecode/x052.py",
+    "lib/python3.9/site-packages/unidecode/x053.py",
+    "lib/python3.9/site-packages/unidecode/x054.py",
+    "lib/python3.9/site-packages/unidecode/x055.py",
+    "lib/python3.9/site-packages/unidecode/x056.py",
+    "lib/python3.9/site-packages/unidecode/x057.py",
+    "lib/python3.9/site-packages/unidecode/x058.py",
+    "lib/python3.9/site-packages/unidecode/x059.py",
+    "lib/python3.9/site-packages/unidecode/x05a.py",
+    "lib/python3.9/site-packages/unidecode/x05b.py",
+    "lib/python3.9/site-packages/unidecode/x05c.py",
+    "lib/python3.9/site-packages/unidecode/x05d.py",
+    "lib/python3.9/site-packages/unidecode/x05e.py",
+    "lib/python3.9/site-packages/unidecode/x05f.py",
+    "lib/python3.9/site-packages/unidecode/x060.py",
+    "lib/python3.9/site-packages/unidecode/x061.py",
+    "lib/python3.9/site-packages/unidecode/x062.py",
+    "lib/python3.9/site-packages/unidecode/x063.py",
+    "lib/python3.9/site-packages/unidecode/x064.py",
+    "lib/python3.9/site-packages/unidecode/x065.py",
+    "lib/python3.9/site-packages/unidecode/x066.py",
+    "lib/python3.9/site-packages/unidecode/x067.py",
+    "lib/python3.9/site-packages/unidecode/x068.py",
+    "lib/python3.9/site-packages/unidecode/x069.py",
+    "lib/python3.9/site-packages/unidecode/x06a.py",
+    "lib/python3.9/site-packages/unidecode/x06b.py",
+    "lib/python3.9/site-packages/unidecode/x06c.py",
+    "lib/python3.9/site-packages/unidecode/x06d.py",
+    "lib/python3.9/site-packages/unidecode/x06e.py",
+    "lib/python3.9/site-packages/unidecode/x06f.py",
+    "lib/python3.9/site-packages/unidecode/x070.py",
+    "lib/python3.9/site-packages/unidecode/x071.py",
+    "lib/python3.9/site-packages/unidecode/x072.py",
+    "lib/python3.9/site-packages/unidecode/x073.py",
+    "lib/python3.9/site-packages/unidecode/x074.py",
+    "lib/python3.9/site-packages/unidecode/x075.py",
+    "lib/python3.9/site-packages/unidecode/x076.py",
+    "lib/python3.9/site-packages/unidecode/x077.py",
+    "lib/python3.9/site-packages/unidecode/x078.py",
+    "lib/python3.9/site-packages/unidecode/x079.py",
+    "lib/python3.9/site-packages/unidecode/x07a.py",
+    "lib/python3.9/site-packages/unidecode/x07b.py",
+    "lib/python3.9/site-packages/unidecode/x07c.py",
+    "lib/python3.9/site-packages/unidecode/x07d.py",
+    "lib/python3.9/site-packages/unidecode/x07e.py",
+    "lib/python3.9/site-packages/unidecode/x07f.py",
+    "lib/python3.9/site-packages/unidecode/x080.py",
+    "lib/python3.9/site-packages/unidecode/x081.py",
+    "lib/python3.9/site-packages/unidecode/x082.py",
+    "lib/python3.9/site-packages/unidecode/x083.py",
+    "lib/python3.9/site-packages/unidecode/x084.py",
+    "lib/python3.9/site-packages/unidecode/x085.py",
+    "lib/python3.9/site-packages/unidecode/x086.py",
+    "lib/python3.9/site-packages/unidecode/x087.py",
+    "lib/python3.9/site-packages/unidecode/x088.py",
+    "lib/python3.9/site-packages/unidecode/x089.py",
+    "lib/python3.9/site-packages/unidecode/x08a.py",
+    "lib/python3.9/site-packages/unidecode/x08b.py",
+    "lib/python3.9/site-packages/unidecode/x08c.py",
+    "lib/python3.9/site-packages/unidecode/x08d.py",
+    "lib/python3.9/site-packages/unidecode/x08e.py",
+    "lib/python3.9/site-packages/unidecode/x08f.py",
+    "lib/python3.9/site-packages/unidecode/x090.py",
+    "lib/python3.9/site-packages/unidecode/x091.py",
+    "lib/python3.9/site-packages/unidecode/x092.py",
+    "lib/python3.9/site-packages/unidecode/x093.py",
+    "lib/python3.9/site-packages/unidecode/x094.py",
+    "lib/python3.9/site-packages/unidecode/x095.py",
+    "lib/python3.9/site-packages/unidecode/x096.py",
+    "lib/python3.9/site-packages/unidecode/x097.py",
+    "lib/python3.9/site-packages/unidecode/x098.py",
+    "lib/python3.9/site-packages/unidecode/x099.py",
+    "lib/python3.9/site-packages/unidecode/x09a.py",
+    "lib/python3.9/site-packages/unidecode/x09b.py",
+    "lib/python3.9/site-packages/unidecode/x09c.py",
+    "lib/python3.9/site-packages/unidecode/x09d.py",
+    "lib/python3.9/site-packages/unidecode/x09e.py",
+    "lib/python3.9/site-packages/unidecode/x09f.py",
+    "lib/python3.9/site-packages/unidecode/x0a0.py",
+    "lib/python3.9/site-packages/unidecode/x0a1.py",
+    "lib/python3.9/site-packages/unidecode/x0a2.py",
+    "lib/python3.9/site-packages/unidecode/x0a3.py",
+    "lib/python3.9/site-packages/unidecode/x0a4.py",
+    "lib/python3.9/site-packages/unidecode/x0ac.py",
+    "lib/python3.9/site-packages/unidecode/x0ad.py",
+    "lib/python3.9/site-packages/unidecode/x0ae.py",
+    "lib/python3.9/site-packages/unidecode/x0af.py",
+    "lib/python3.9/site-packages/unidecode/x0b0.py",
+    "lib/python3.9/site-packages/unidecode/x0b1.py",
+    "lib/python3.9/site-packages/unidecode/x0b2.py",
+    "lib/python3.9/site-packages/unidecode/x0b3.py",
+    "lib/python3.9/site-packages/unidecode/x0b4.py",
+    "lib/python3.9/site-packages/unidecode/x0b5.py",
+    "lib/python3.9/site-packages/unidecode/x0b6.py",
+    "lib/python3.9/site-packages/unidecode/x0b7.py",
+    "lib/python3.9/site-packages/unidecode/x0b8.py",
+    "lib/python3.9/site-packages/unidecode/x0b9.py",
+    "lib/python3.9/site-packages/unidecode/x0ba.py",
+    "lib/python3.9/site-packages/unidecode/x0bb.py",
+    "lib/python3.9/site-packages/unidecode/x0bc.py",
+    "lib/python3.9/site-packages/unidecode/x0bd.py",
+    "lib/python3.9/site-packages/unidecode/x0be.py",
+    "lib/python3.9/site-packages/unidecode/x0bf.py",
+    "lib/python3.9/site-packages/unidecode/x0c0.py",
+    "lib/python3.9/site-packages/unidecode/x0c1.py",
+    "lib/python3.9/site-packages/unidecode/x0c2.py",
+    "lib/python3.9/site-packages/unidecode/x0c3.py",
+    "lib/python3.9/site-packages/unidecode/x0c4.py",
+    "lib/python3.9/site-packages/unidecode/x0c5.py",
+    "lib/python3.9/site-packages/unidecode/x0c6.py",
+    "lib/python3.9/site-packages/unidecode/x0c7.py",
+    "lib/python3.9/site-packages/unidecode/x0c8.py",
+    "lib/python3.9/site-packages/unidecode/x0c9.py",
+    "lib/python3.9/site-packages/unidecode/x0ca.py",
+    "lib/python3.9/site-packages/unidecode/x0cb.py",
+    "lib/python3.9/site-packages/unidecode/x0cc.py",
+    "lib/python3.9/site-packages/unidecode/x0cd.py",
+    "lib/python3.9/site-packages/unidecode/x0ce.py",
+    "lib/python3.9/site-packages/unidecode/x0cf.py",
+    "lib/python3.9/site-packages/unidecode/x0d0.py",
+    "lib/python3.9/site-packages/unidecode/x0d1.py",
+    "lib/python3.9/site-packages/unidecode/x0d2.py",
+    "lib/python3.9/site-packages/unidecode/x0d3.py",
+    "lib/python3.9/site-packages/unidecode/x0d4.py",
+    "lib/python3.9/site-packages/unidecode/x0d5.py",
+    "lib/python3.9/site-packages/unidecode/x0d6.py",
+    "lib/python3.9/site-packages/unidecode/x0d7.py",
+    "lib/python3.9/site-packages/unidecode/x0f9.py",
+    "lib/python3.9/site-packages/unidecode/x0fa.py",
+    "lib/python3.9/site-packages/unidecode/x0fb.py",
+    "lib/python3.9/site-packages/unidecode/x0fc.py",
+    "lib/python3.9/site-packages/unidecode/x0fd.py",
+    "lib/python3.9/site-packages/unidecode/x0fe.py",
+    "lib/python3.9/site-packages/unidecode/x0ff.py",
+    "lib/python3.9/site-packages/unidecode/x1d4.py",
+    "lib/python3.9/site-packages/unidecode/x1d5.py",
+    "lib/python3.9/site-packages/unidecode/x1d6.py",
+    "lib/python3.9/site-packages/unidecode/x1d7.py",
+    "lib/python3.9/site-packages/unidecode/x1f1.py",
+    "lib/python3.9/site-packages/unidecode/x1f6.py"
+  ],
+  "fn": "unidecode-1.3.8-py39h06a4308_0.conda",
+  "license": "GPL-2.0-or-later",
+  "link": {
+    "source": "/home/james/miniconda3/pkgs/unidecode-1.3.8-py39h06a4308_0",
+    "type": 1
+  },
+  "md5": "bfa52263613e187e8f45537b8880a295",
+  "name": "unidecode",
+  "package_tarball_full_path": "/home/james/miniconda3/pkgs/unidecode-1.3.8-py39h06a4308_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/unidecode",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/unidecode_1724790039185/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "38968266d1acabc9f3bc0d961a1fb2f996d03c632f8551c3f2a1e950d06f7fe7",
+        "sha256_in_prefix": "52de925697db6b27156dd6f6761a4ccc21c4d90d36a437ecf43d783c01939e2c",
+        "size_in_bytes": 467
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+        "sha256_in_prefix": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+        "size_in_bytes": 18092
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4e3384ce71732079c37f1f024498eb1df31688838e6ba76b3e9eb3a9ad0e6dce",
+        "sha256_in_prefix": "4e3384ce71732079c37f1f024498eb1df31688838e6ba76b3e9eb3a9ad0e6dce",
+        "size_in_bytes": 13615
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8d582e51e82b98389b2d979f861e06ee25145ab5944142223512b53306c70c4f",
+        "sha256_in_prefix": "8d582e51e82b98389b2d979f861e06ee25145ab5944142223512b53306c70c4f",
+        "size_in_bytes": 24104
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4749dceaa4f1ba82e4ed2840dbf63e51690df1975f0c11b607a12aa73d965dbb",
+        "sha256_in_prefix": "4749dceaa4f1ba82e4ed2840dbf63e51690df1975f0c11b607a12aa73d965dbb",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e56b730dba30ab162e1c491a1521aa0e035ed8de19366cc080a45f606e6cd8dc",
+        "sha256_in_prefix": "e56b730dba30ab162e1c491a1521aa0e035ed8de19366cc080a45f606e6cd8dc",
+        "size_in_bytes": 69
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "ce38def01ac25a3ff93037fbc0049b9cd75e598c7176de41b93408f71f1cff6e",
+        "sha256_in_prefix": "ce38def01ac25a3ff93037fbc0049b9cd75e598c7176de41b93408f71f1cff6e",
+        "size_in_bytes": 50
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Unidecode-1.3.8.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e2e60d1b6974e2cd1d9b49844263cba36ceb8cb6e12cf2947ac2ebd9d393769a",
+        "sha256_in_prefix": "e2e60d1b6974e2cd1d9b49844263cba36ceb8cb6e12cf2947ac2ebd9d393769a",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b943f7ef421d7a7d44b10b6082535de7b0cc28e1b999787d53120c9bcca10df4",
+        "sha256_in_prefix": "b943f7ef421d7a7d44b10b6082535de7b0cc28e1b999787d53120c9bcca10df4",
+        "size_in_bytes": 4230
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "55661609c97226c761b4d310b6bc8c15b82c099b4d52c59c12e4bb64e947d497",
+        "sha256_in_prefix": "55661609c97226c761b4d310b6bc8c15b82c099b4d52c59c12e4bb64e947d497",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "be8869858328a01d31e27908d08c7c5b0757456792e8705fbe5c47a492e0ba57",
+        "sha256_in_prefix": "be8869858328a01d31e27908d08c7c5b0757456792e8705fbe5c47a492e0ba57",
+        "size_in_bytes": 3952
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b93b5624222584a4acfbd1ab41e632ae926189483f47a707787961d903588adc",
+        "sha256_in_prefix": "b93b5624222584a4acfbd1ab41e632ae926189483f47a707787961d903588adc",
+        "size_in_bytes": 191
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/util.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bcabd2ab247c382b24c15ce58cdfea6aeb33b3ede2f9fbe9f16014249d7b863b",
+        "sha256_in_prefix": "bcabd2ab247c382b24c15ce58cdfea6aeb33b3ede2f9fbe9f16014249d7b863b",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x000.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4838f0d71e8a308855941266531fb13bef82b13b2e84fc96bb07a53544d5ea98",
+        "sha256_in_prefix": "4838f0d71e8a308855941266531fb13bef82b13b2e84fc96bb07a53544d5ea98",
+        "size_in_bytes": 1349
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x001.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "103e5207155e70337dc96acd2a18d10e6e92bb75accf8f463927e5500ba5c9c1",
+        "sha256_in_prefix": "103e5207155e70337dc96acd2a18d10e6e92bb75accf8f463927e5500ba5c9c1",
+        "size_in_bytes": 1294
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x002.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ba46f560813f9457002c6979a8cd5bed6d65ac3dfe9ba31b227fe9ac51ac6091",
+        "sha256_in_prefix": "ba46f560813f9457002c6979a8cd5bed6d65ac3dfe9ba31b227fe9ac51ac6091",
+        "size_in_bytes": 1203
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x003.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "43721d46d9686df47c9cbbd9ae884544a24285a083b5ca054157fbdde8841019",
+        "sha256_in_prefix": "43721d46d9686df47c9cbbd9ae884544a24285a083b5ca054157fbdde8841019",
+        "size_in_bytes": 1096
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x004.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1626f0c22c3c879f838e0efb38422696b36f65341190ee17f668297018898dc5",
+        "sha256_in_prefix": "1626f0c22c3c879f838e0efb38422696b36f65341190ee17f668297018898dc5",
+        "size_in_bytes": 1208
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x005.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e1894e22383a3eb2233853cedf58413e8c4990c868a499de24ade53cbfdd2e75",
+        "sha256_in_prefix": "e1894e22383a3eb2233853cedf58413e8c4990c868a499de24ade53cbfdd2e75",
+        "size_in_bytes": 951
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x006.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ad9ccb82aabc076e73a7c80f9749578db21b7ca6e9bd74648617cf29b56210cc",
+        "sha256_in_prefix": "ad9ccb82aabc076e73a7c80f9749578db21b7ca6e9bd74648617cf29b56210cc",
+        "size_in_bytes": 1071
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x007.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "436f78040ce829e61be3d62153b270dd71e18bd36e5af55975da5db9b023fb10",
+        "sha256_in_prefix": "436f78040ce829e61be3d62153b270dd71e18bd36e5af55975da5db9b023fb10",
+        "size_in_bytes": 769
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x009.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca2333670431237640076f3b907350b8b2531fb9f98596e01798ee61ff463a4a",
+        "sha256_in_prefix": "ca2333670431237640076f3b907350b8b2531fb9f98596e01798ee61ff463a4a",
+        "size_in_bytes": 1057
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x00a.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "664492e2fdaf854a75ec50495d09a0f5c9c7c218831e7c710f50fdd5b6711675",
+        "sha256_in_prefix": "664492e2fdaf854a75ec50495d09a0f5c9c7c218831e7c710f50fdd5b6711675",
+        "size_in_bytes": 909
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x00b.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8812bd522c20d99845e866a1bb8840edd3a0d7834fe697847c729df756458573",
+        "sha256_in_prefix": "8812bd522c20d99845e866a1bb8840edd3a0d7834fe697847c729df756458573",
+        "size_in_bytes": 869
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x00c.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "030bf6ce49a61f20f7c9ba4287fa7394210cac5f40e4921bba89d232a0d38ce4",
+        "sha256_in_prefix": "030bf6ce49a61f20f7c9ba4287fa7394210cac5f40e4921bba89d232a0d38ce4",
+        "size_in_bytes": 939
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x00d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a4477e4f9dd33fe168d66549779fb3b55c2e39ef2541dac0f94e62e5939f1fd",
+        "sha256_in_prefix": "3a4477e4f9dd33fe168d66549779fb3b55c2e39ef2541dac0f94e62e5939f1fd",
+        "size_in_bytes": 931
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x00e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c30cfbc85ce2a0769fa2709a06c61424b6ba5050d1e4d0b47b1789c19027a50f",
+        "sha256_in_prefix": "c30cfbc85ce2a0769fa2709a06c61424b6ba5050d1e4d0b47b1789c19027a50f",
+        "size_in_bytes": 917
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x00f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b513dc8c91afe25664fa452649f8c944d14ac2a2ea12a48a63712b4df070036c",
+        "sha256_in_prefix": "b513dc8c91afe25664fa452649f8c944d14ac2a2ea12a48a63712b4df070036c",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x010.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5c454f67eaf5e65bd2097d84771501311dbdc58f4280f4a08842698116bd660",
+        "sha256_in_prefix": "d5c454f67eaf5e65bd2097d84771501311dbdc58f4280f4a08842698116bd660",
+        "size_in_bytes": 849
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x011.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "84bb15dc7f72d610263bf482d45ac02df372f48172192c19a7b5857756293049",
+        "sha256_in_prefix": "84bb15dc7f72d610263bf482d45ac02df372f48172192c19a7b5857756293049",
+        "size_in_bytes": 1267
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x012.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "095c43c3d667f96a93d85d752c4eb7525a370435ea122209ad78166e4da1baad",
+        "sha256_in_prefix": "095c43c3d667f96a93d85d752c4eb7525a370435ea122209ad78166e4da1baad",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x013.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "98d4ce4e7dcb1d61143abf0e1cc1883d84da30b968da6a0cb73e05ae32daac6b",
+        "sha256_in_prefix": "98d4ce4e7dcb1d61143abf0e1cc1883d84da30b968da6a0cb73e05ae32daac6b",
+        "size_in_bytes": 1098
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x014.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4f8c5ed2e68002dacdfd7fd696af4d0cbc81bc961ed99905703f5a3a92249601",
+        "sha256_in_prefix": "4f8c5ed2e68002dacdfd7fd696af4d0cbc81bc961ed99905703f5a3a92249601",
+        "size_in_bytes": 1364
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x015.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "72f3f93d5edc74ce0531586f50833e7149a393a740e70eaf01d017389cc6f529",
+        "sha256_in_prefix": "72f3f93d5edc74ce0531586f50833e7149a393a740e70eaf01d017389cc6f529",
+        "size_in_bytes": 1404
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x016.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "444c23a061859302041d90e0ffe13ccf17091a1f0eafa09dc20b5dc02194b797",
+        "sha256_in_prefix": "444c23a061859302041d90e0ffe13ccf17091a1f0eafa09dc20b5dc02194b797",
+        "size_in_bytes": 1231
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x017.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4dbbd5492e7bf1a0937b2eaf66114c8d6a80e817dfc5314f1afc31e29643f19c",
+        "sha256_in_prefix": "4dbbd5492e7bf1a0937b2eaf66114c8d6a80e817dfc5314f1afc31e29643f19c",
+        "size_in_bytes": 705
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x018.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "98fc85f2390e5a5e6cc4586c6d065530b1edcca9bca797c9da0e218cdcb5721d",
+        "sha256_in_prefix": "98fc85f2390e5a5e6cc4586c6d065530b1edcca9bca797c9da0e218cdcb5721d",
+        "size_in_bytes": 909
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x01d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "67d48b12d80f550b21e4650010b161e8a898981f82a9ac3c95f5fdc39cd5e2a1",
+        "sha256_in_prefix": "67d48b12d80f550b21e4650010b161e8a898981f82a9ac3c95f5fdc39cd5e2a1",
+        "size_in_bytes": 1331
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x01e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8625cfed3dbd040767416762d010be41e4a656a175eef790915c2fade27f2cbf",
+        "sha256_in_prefix": "8625cfed3dbd040767416762d010be41e4a656a175eef790915c2fade27f2cbf",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x01f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ffebd2a91edbf39ec64fbad79383c881cade493c7b44a5b18af3ba18ef116ace",
+        "sha256_in_prefix": "ffebd2a91edbf39ec64fbad79383c881cade493c7b44a5b18af3ba18ef116ace",
+        "size_in_bytes": 1296
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x020.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "339a0982902a617db5fc012147a4566db0e72bf801f8e85938361b7b2bf91421",
+        "sha256_in_prefix": "339a0982902a617db5fc012147a4566db0e72bf801f8e85938361b7b2bf91421",
+        "size_in_bytes": 1004
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x021.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1b59219343ea42710bbff3db13637f957c5311a0fd4ce8c52b247ac91f553d18",
+        "sha256_in_prefix": "1b59219343ea42710bbff3db13637f957c5311a0fd4ce8c52b247ac91f553d18",
+        "size_in_bytes": 1253
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x022.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7da44ac427c79fcdb0f61095500dba8520f5851236bb419af61b9e793a31bb27",
+        "sha256_in_prefix": "7da44ac427c79fcdb0f61095500dba8520f5851236bb419af61b9e793a31bb27",
+        "size_in_bytes": 428
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x023.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f74357ef30cf852bee21b3aecaebf18dacd795b49676ba2d04c9e871c1cd0dea",
+        "sha256_in_prefix": "f74357ef30cf852bee21b3aecaebf18dacd795b49676ba2d04c9e871c1cd0dea",
+        "size_in_bytes": 407
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x024.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8b189da4e0fe7b0dae6988084b49b520fdf50f630a5e46d553eb910099d2e6d",
+        "sha256_in_prefix": "a8b189da4e0fe7b0dae6988084b49b520fdf50f630a5e46d553eb910099d2e6d",
+        "size_in_bytes": 1108
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x025.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ecbeee4339587e5f9a80bfb4cf93a41799012c644d8a8126cc2526020c542aea",
+        "sha256_in_prefix": "ecbeee4339587e5f9a80bfb4cf93a41799012c644d8a8126cc2526020c542aea",
+        "size_in_bytes": 1326
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x026.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2e8826f0e88be0b2bf5a5d3de700bc084809bc765ebdd286858469f37dc686a2",
+        "sha256_in_prefix": "2e8826f0e88be0b2bf5a5d3de700bc084809bc765ebdd286858469f37dc686a2",
+        "size_in_bytes": 831
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x027.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bdd5ae5ac1262c9421a160b023710c5d59751fe49c25ef233e85eb3d7061695c",
+        "sha256_in_prefix": "bdd5ae5ac1262c9421a160b023710c5d59751fe49c25ef233e85eb3d7061695c",
+        "size_in_bytes": 1147
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x028.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c9614a52413c80c944f36fdb6d3e559a3f8822f5c0f6c337ebecc3479d3d8fe",
+        "sha256_in_prefix": "6c9614a52413c80c944f36fdb6d3e559a3f8822f5c0f6c337ebecc3479d3d8fe",
+        "size_in_bytes": 2132
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x029.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c0311fe884e8fb3ce340f94a78436ba303bc9efb9c5f6e94d184b11f086e092b",
+        "sha256_in_prefix": "c0311fe884e8fb3ce340f94a78436ba303bc9efb9c5f6e94d184b11f086e092b",
+        "size_in_bytes": 405
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x02a.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1011d427d2bbed559195ef435d2fec63fd1fb1527af6b0de990013959599661c",
+        "sha256_in_prefix": "1011d427d2bbed559195ef435d2fec63fd1fb1527af6b0de990013959599661c",
+        "size_in_bytes": 411
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x02c.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f3b620b32e9da24add64e81e7ce736cdbc554ac2bfa822fb757e92b2e7c2cafc",
+        "sha256_in_prefix": "f3b620b32e9da24add64e81e7ce736cdbc554ac2bfa822fb757e92b2e7c2cafc",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x02e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d2af2cd7b186bde778d8d87be962b1547da1a9d3dfbf87c5fec67c63981709c1",
+        "sha256_in_prefix": "d2af2cd7b186bde778d8d87be962b1547da1a9d3dfbf87c5fec67c63981709c1",
+        "size_in_bytes": 527
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x02f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0837693c6099a4a7cff3f38cf5debdc0dd2ede31f88c4d7f303d64f3c07ac2e0",
+        "sha256_in_prefix": "0837693c6099a4a7cff3f38cf5debdc0dd2ede31f88c4d7f303d64f3c07ac2e0",
+        "size_in_bytes": 400
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x030.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d82bf243fab8766beeec977b985d94c5e688ec34e0701e6e74f93ce9fe7c5e91",
+        "sha256_in_prefix": "d82bf243fab8766beeec977b985d94c5e688ec34e0701e6e74f93ce9fe7c5e91",
+        "size_in_bytes": 1248
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x031.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bdf7bcd583b12b37a338a8d35cb2b141603209170c8266ff5dc6d621bfcda099",
+        "sha256_in_prefix": "bdf7bcd583b12b37a338a8d35cb2b141603209170c8266ff5dc6d621bfcda099",
+        "size_in_bytes": 948
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x032.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "887f4f3f1a5a456acb5975160e17c82daaeb3f1612c502c74ecc324cb6b3698e",
+        "sha256_in_prefix": "887f4f3f1a5a456acb5975160e17c82daaeb3f1612c502c74ecc324cb6b3698e",
+        "size_in_bytes": 1387
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x033.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "40d06630de5714f8dd1027ede62bd67bb0b410652ffdbf65ec5063eaf31ced10",
+        "sha256_in_prefix": "40d06630de5714f8dd1027ede62bd67bb0b410652ffdbf65ec5063eaf31ced10",
+        "size_in_bytes": 1577
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x04d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff127ad729989523b21c567785a5a224c4d09ff2ac05fead0b8e1ddda0fc5ab0",
+        "sha256_in_prefix": "ff127ad729989523b21c567785a5a224c4d09ff2ac05fead0b8e1ddda0fc5ab0",
+        "size_in_bytes": 400
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x04e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a9e99d9a57200909065852e0f38f62211bb19f5123a154a8b03783ca20ecdff3",
+        "sha256_in_prefix": "a9e99d9a57200909065852e0f38f62211bb19f5123a154a8b03783ca20ecdff3",
+        "size_in_bytes": 1564
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x04f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac74729fa40eb83633dc9439b179748e73791acba6e4fcb72cfae050343c13ba",
+        "sha256_in_prefix": "ac74729fa40eb83633dc9439b179748e73791acba6e4fcb72cfae050343c13ba",
+        "size_in_bytes": 1577
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x050.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "88a916c9b20b94d92e06edce377f1a7f09745cf3c2ca4e677a34b75978c4ed70",
+        "sha256_in_prefix": "88a916c9b20b94d92e06edce377f1a7f09745cf3c2ca4e677a34b75978c4ed70",
+        "size_in_bytes": 1628
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x051.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6bbb7340924c18e6c66c7c0819ff5913ec13ff14d6a658da3f44d287f14476d7",
+        "sha256_in_prefix": "6bbb7340924c18e6c66c7c0819ff5913ec13ff14d6a658da3f44d287f14476d7",
+        "size_in_bytes": 1614
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x052.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "266b3584c0f94af48cc30232bd19c2c56cd4afea4ff5ca90d16940f059d1cebf",
+        "sha256_in_prefix": "266b3584c0f94af48cc30232bd19c2c56cd4afea4ff5ca90d16940f059d1cebf",
+        "size_in_bytes": 1575
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x053.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "477e93660b7be8b3d22644c8f87d45657f10782c2f474bddbaab90db6f89b311",
+        "sha256_in_prefix": "477e93660b7be8b3d22644c8f87d45657f10782c2f474bddbaab90db6f89b311",
+        "size_in_bytes": 1573
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x054.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d3f45c4c74e33de12035ac1926999db9377e8e2dd0d33cd8a6b3d5a2720d57e0",
+        "sha256_in_prefix": "d3f45c4c74e33de12035ac1926999db9377e8e2dd0d33cd8a6b3d5a2720d57e0",
+        "size_in_bytes": 1573
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x055.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d08f18a5b32b2db55f97b3b135d0ef0bfcbb0e7416acb9a9ebaf1e7b8398971",
+        "sha256_in_prefix": "1d08f18a5b32b2db55f97b3b135d0ef0bfcbb0e7416acb9a9ebaf1e7b8398971",
+        "size_in_bytes": 1575
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x056.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0bb4ec5fadd627f54ef7042f51b0b5baefcc361f036fa6738ae3396799d195c3",
+        "sha256_in_prefix": "0bb4ec5fadd627f54ef7042f51b0b5baefcc361f036fa6738ae3396799d195c3",
+        "size_in_bytes": 1571
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x057.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "548bfe793b744224bc6cdb4867b2f2b0ba7f270b4f6d1f2ed5bd8ae2e0abcb9b",
+        "sha256_in_prefix": "548bfe793b744224bc6cdb4867b2f2b0ba7f270b4f6d1f2ed5bd8ae2e0abcb9b",
+        "size_in_bytes": 1608
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x058.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "254eae4968c03a91dc230df95ac221a8a7aa51e9a04395f68db9fd8a17bf32cf",
+        "sha256_in_prefix": "254eae4968c03a91dc230df95ac221a8a7aa51e9a04395f68db9fd8a17bf32cf",
+        "size_in_bytes": 1591
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x059.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5c3b2cb1f064182ecaca2ae39771bd36d86e75e46260c45092f6289b191e4633",
+        "sha256_in_prefix": "5c3b2cb1f064182ecaca2ae39771bd36d86e75e46260c45092f6289b191e4633",
+        "size_in_bytes": 1604
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x05a.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "45279737b13605d8f989233e4d3de0af61b2b4118558a02efedc0bd602cdd7d2",
+        "sha256_in_prefix": "45279737b13605d8f989233e4d3de0af61b2b4118558a02efedc0bd602cdd7d2",
+        "size_in_bytes": 1606
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x05b.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e04b3adf0a01b461ac96eb10530ab57bf020a16ff92b7597fe86b106ec04728",
+        "sha256_in_prefix": "7e04b3adf0a01b461ac96eb10530ab57bf020a16ff92b7597fe86b106ec04728",
+        "size_in_bytes": 1610
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x05c.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ce2db92a949f16f6eaa912acbe8852601ecad2b668679fa4124652adb602f7d6",
+        "sha256_in_prefix": "ce2db92a949f16f6eaa912acbe8852601ecad2b668679fa4124652adb602f7d6",
+        "size_in_bytes": 1563
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x05d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d43ef591d50d1a7cc2c816ba2188e6e02c737db7137c2e55d06cc0a3305a84a",
+        "sha256_in_prefix": "1d43ef591d50d1a7cc2c816ba2188e6e02c737db7137c2e55d06cc0a3305a84a",
+        "size_in_bytes": 1590
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x05e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f664ddc2491a159d6668cbd68b6cc05fedf668512024a72834b709274e5b31cc",
+        "sha256_in_prefix": "f664ddc2491a159d6668cbd68b6cc05fedf668512024a72834b709274e5b31cc",
+        "size_in_bytes": 1597
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x05f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "163f70fdc2a127c71585c8afe2a511d61bd0b9b761a3a7c2b7a0df94e314f087",
+        "sha256_in_prefix": "163f70fdc2a127c71585c8afe2a511d61bd0b9b761a3a7c2b7a0df94e314f087",
+        "size_in_bytes": 1603
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x060.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "236056fdcd76d4bc3f08100cc51182ca6e888210db809ed79962b5c9af0d40d7",
+        "sha256_in_prefix": "236056fdcd76d4bc3f08100cc51182ca6e888210db809ed79962b5c9af0d40d7",
+        "size_in_bytes": 1602
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x061.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "562a54a14c036a4c3f27446a95264cd3b019dd18f0dba948654515f1472927b6",
+        "sha256_in_prefix": "562a54a14c036a4c3f27446a95264cd3b019dd18f0dba948654515f1472927b6",
+        "size_in_bytes": 1589
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x062.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e88ee05014f474bdff14c2684c63d05391f2763cb04edb97e1c69e4d3c5e2831",
+        "sha256_in_prefix": "e88ee05014f474bdff14c2684c63d05391f2763cb04edb97e1c69e4d3c5e2831",
+        "size_in_bytes": 1597
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x063.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b38ac48942e204da54752f5c0af760caa4b0083748be00305fc00d11f1f5512f",
+        "sha256_in_prefix": "b38ac48942e204da54752f5c0af760caa4b0083748be00305fc00d11f1f5512f",
+        "size_in_bytes": 1608
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x064.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8739839906d270f2590ccef8659568917760db3feb46492fe2c45471e732c4db",
+        "sha256_in_prefix": "8739839906d270f2590ccef8659568917760db3feb46492fe2c45471e732c4db",
+        "size_in_bytes": 1617
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x065.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8bc6d8eacb6eac1c2854a614b5a30b0ec2b0e64ef5bc0613f73964210b58605c",
+        "sha256_in_prefix": "8bc6d8eacb6eac1c2854a614b5a30b0ec2b0e64ef5bc0613f73964210b58605c",
+        "size_in_bytes": 1578
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x066.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4f46ad40ff91a0f14662498ce312fd1cd0f7ed19e20a53716aa518009ce1dc52",
+        "sha256_in_prefix": "4f46ad40ff91a0f14662498ce312fd1cd0f7ed19e20a53716aa518009ce1dc52",
+        "size_in_bytes": 1606
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x067.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f2634425d754f4c1f559df894a517c424b01771a35b3c9920d301bde8fbb511a",
+        "sha256_in_prefix": "f2634425d754f4c1f559df894a517c424b01771a35b3c9920d301bde8fbb511a",
+        "size_in_bytes": 1606
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x068.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "467a03c92d4df3d8d950325580e97ec974c11f795a7626dcb27d7226539db63b",
+        "sha256_in_prefix": "467a03c92d4df3d8d950325580e97ec974c11f795a7626dcb27d7226539db63b",
+        "size_in_bytes": 1634
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x069.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f7a6e70858d6a7938b30917377f47de7f56a91dfca6a68c985a88d6de89a3fcf",
+        "sha256_in_prefix": "f7a6e70858d6a7938b30917377f47de7f56a91dfca6a68c985a88d6de89a3fcf",
+        "size_in_bytes": 1627
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x06a.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f847e8e05e2fce4b743b873f1a1d59860374cb2e7d98e14c4d5905738af6e01a",
+        "sha256_in_prefix": "f847e8e05e2fce4b743b873f1a1d59860374cb2e7d98e14c4d5905738af6e01a",
+        "size_in_bytes": 1617
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x06b.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1ebebad8756ccd3de7c6d220e0d6c754e36c549f5a4d1004b4e5898d9245e8c9",
+        "sha256_in_prefix": "1ebebad8756ccd3de7c6d220e0d6c754e36c549f5a4d1004b4e5898d9245e8c9",
+        "size_in_bytes": 1575
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x06c.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "979a6143f29720d16f0bbdbd67d3e297290bc4f69ab6145e459d67765c45c713",
+        "sha256_in_prefix": "979a6143f29720d16f0bbdbd67d3e297290bc4f69ab6145e459d67765c45c713",
+        "size_in_bytes": 1614
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x06d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d3977be655a9ea3fba1b774c566dd9b44c4263251c3aa685adaa1e8284fb2a70",
+        "sha256_in_prefix": "d3977be655a9ea3fba1b774c566dd9b44c4263251c3aa685adaa1e8284fb2a70",
+        "size_in_bytes": 1617
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x06e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d5f442fa9181b51b945b86c2cb12d8d29e419f54d5de871a09c7a2fb0b934cd",
+        "sha256_in_prefix": "7d5f442fa9181b51b945b86c2cb12d8d29e419f54d5de871a09c7a2fb0b934cd",
+        "size_in_bytes": 1588
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x06f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0fad29f730c99c999f478dd5701b9e5db700ae7548d23d8854b425b434cc765f",
+        "sha256_in_prefix": "0fad29f730c99c999f478dd5701b9e5db700ae7548d23d8854b425b434cc765f",
+        "size_in_bytes": 1590
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x070.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bae67e5e69159ac07006e871aa58aceecebf212ce7904507002d90660b68db28",
+        "sha256_in_prefix": "bae67e5e69159ac07006e871aa58aceecebf212ce7904507002d90660b68db28",
+        "size_in_bytes": 1588
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x071.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "29cda4b45a7b8eecfd986817c80932e95b0e8a8f53586a017ca58e4e5b419e4f",
+        "sha256_in_prefix": "29cda4b45a7b8eecfd986817c80932e95b0e8a8f53586a017ca58e4e5b419e4f",
+        "size_in_bytes": 1557
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x072.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e76dd4dccde7fec33284910e5a625128f88b72463f1bf407a5ce81be0aa1fc0",
+        "sha256_in_prefix": "7e76dd4dccde7fec33284910e5a625128f88b72463f1bf407a5ce81be0aa1fc0",
+        "size_in_bytes": 1597
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x073.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "23a5ef08bd4954a7d2cb75acb3a6561c2fb77337d3f62694213d5ef7f77306f0",
+        "sha256_in_prefix": "23a5ef08bd4954a7d2cb75acb3a6561c2fb77337d3f62694213d5ef7f77306f0",
+        "size_in_bytes": 1619
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x074.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0c42a8c63f847248a1d51a68adbadc8dcd2ac7c9bc668f1e2b90fabaea1aec25",
+        "sha256_in_prefix": "0c42a8c63f847248a1d51a68adbadc8dcd2ac7c9bc668f1e2b90fabaea1aec25",
+        "size_in_bytes": 1636
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x075.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "448fdda691726c19600e78edbb47c21f2bc2eacba6e3b3ed7ed6e63636c0d9e4",
+        "sha256_in_prefix": "448fdda691726c19600e78edbb47c21f2bc2eacba6e3b3ed7ed6e63636c0d9e4",
+        "size_in_bytes": 1616
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x076.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa9547f3f505ff0d59503c6ea04b2d52bc7168fbeaca805c10abff39f9435bba",
+        "sha256_in_prefix": "fa9547f3f505ff0d59503c6ea04b2d52bc7168fbeaca805c10abff39f9435bba",
+        "size_in_bytes": 1590
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x077.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "370997e94ce871bccbb5bd4eb75c11716b2e399f5de17c19a11317ef37417fc2",
+        "sha256_in_prefix": "370997e94ce871bccbb5bd4eb75c11716b2e399f5de17c19a11317ef37417fc2",
+        "size_in_bytes": 1605
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x078.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "16c8dc260e8919d0063b67270667d8b9a3a2f5240a2a7398c4f1425b70dac073",
+        "sha256_in_prefix": "16c8dc260e8919d0063b67270667d8b9a3a2f5240a2a7398c4f1425b70dac073",
+        "size_in_bytes": 1564
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x079.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "46bd092d57b813c84b34f7be67a7390ee3ded5f9973208ea8335c77fff15bc60",
+        "sha256_in_prefix": "46bd092d57b813c84b34f7be67a7390ee3ded5f9973208ea8335c77fff15bc60",
+        "size_in_bytes": 1561
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x07a.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1143fc85fa60d7c050ca6f943c97955e7d1de123909992a9e94fdb8f3b612356",
+        "sha256_in_prefix": "1143fc85fa60d7c050ca6f943c97955e7d1de123909992a9e94fdb8f3b612356",
+        "size_in_bytes": 1590
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x07b.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "27c811e3c4350ba1ccd586769a8254887abba2e6d3afede7c3fb173298e66fd4",
+        "sha256_in_prefix": "27c811e3c4350ba1ccd586769a8254887abba2e6d3afede7c3fb173298e66fd4",
+        "size_in_bytes": 1618
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x07c.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6039f37200fab153f0f86920ff5d0be9d243e507951632402910a220d3a3798",
+        "sha256_in_prefix": "e6039f37200fab153f0f86920ff5d0be9d243e507951632402910a220d3a3798",
+        "size_in_bytes": 1582
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x07d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6706b5d6a0ed2a6ffe68859aadff4fe1aaaf5dbac989e278cd25ee1203cf1c99",
+        "sha256_in_prefix": "6706b5d6a0ed2a6ffe68859aadff4fe1aaaf5dbac989e278cd25ee1203cf1c99",
+        "size_in_bytes": 1630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x07e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0d2ec5c1c85c94a80baf498618c494f3d07d96a9aa56be9661374279e981fb1e",
+        "sha256_in_prefix": "0d2ec5c1c85c94a80baf498618c494f3d07d96a9aa56be9661374279e981fb1e",
+        "size_in_bytes": 1625
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x07f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0a64ee1cb1d4ed04fd1a6ab4998611604a14085d807b54340cfcf35817272af2",
+        "sha256_in_prefix": "0a64ee1cb1d4ed04fd1a6ab4998611604a14085d807b54340cfcf35817272af2",
+        "size_in_bytes": 1590
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x080.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3610cb118b3bbd1b8f28e3a9ae8695bdfe45dc33adbd605e8835b22e3cb7b23e",
+        "sha256_in_prefix": "3610cb118b3bbd1b8f28e3a9ae8695bdfe45dc33adbd605e8835b22e3cb7b23e",
+        "size_in_bytes": 1589
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x081.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9524a2f8e5d36244f41b1270ffc9d912c5357f50084f4b5afdc6d11cbf9cb958",
+        "sha256_in_prefix": "9524a2f8e5d36244f41b1270ffc9d912c5357f50084f4b5afdc6d11cbf9cb958",
+        "size_in_bytes": 1627
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x082.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "88630cd1b680360dadb632fa06e999d5a72973746b6735f050dd32e4d8b655b4",
+        "sha256_in_prefix": "88630cd1b680360dadb632fa06e999d5a72973746b6735f050dd32e4d8b655b4",
+        "size_in_bytes": 1611
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x083.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a9a8943821a4d614526bad0c4653089138b14dbe7b6966a8a55b4f936a071398",
+        "sha256_in_prefix": "a9a8943821a4d614526bad0c4653089138b14dbe7b6966a8a55b4f936a071398",
+        "size_in_bytes": 1603
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x084.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "00adb6574b855e3c6614ef1c9abec01d8b924b967f0f54b4393fcfaff1adc14b",
+        "sha256_in_prefix": "00adb6574b855e3c6614ef1c9abec01d8b924b967f0f54b4393fcfaff1adc14b",
+        "size_in_bytes": 1578
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x085.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d01bfdd6cfd82ea2ddf6b21f7ebfcf47b6fe5d0a3b7ddf43249e1653d1420b9",
+        "sha256_in_prefix": "6d01bfdd6cfd82ea2ddf6b21f7ebfcf47b6fe5d0a3b7ddf43249e1653d1420b9",
+        "size_in_bytes": 1584
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x086.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f3b44c662965d90c04c05bac5a78cbe1bf7d90bbf72a2a9be57ffa675a0adc1",
+        "sha256_in_prefix": "2f3b44c662965d90c04c05bac5a78cbe1bf7d90bbf72a2a9be57ffa675a0adc1",
+        "size_in_bytes": 1585
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x087.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "34e0bcd999a3e04ef4a3ed6bdff2c9975285f8ff05a3d0bca07ec8f82900f260",
+        "sha256_in_prefix": "34e0bcd999a3e04ef4a3ed6bdff2c9975285f8ff05a3d0bca07ec8f82900f260",
+        "size_in_bytes": 1605
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x088.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea0e3b8fa25e9a481ad236a45fd04e95385aa28707b69cb5fcc1695695a6d627",
+        "sha256_in_prefix": "ea0e3b8fa25e9a481ad236a45fd04e95385aa28707b69cb5fcc1695695a6d627",
+        "size_in_bytes": 1599
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x089.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0ff30b2031ff6cea6dde15e224a9f7c05da04234f92f3f71ee92c0e7b59adb7e",
+        "sha256_in_prefix": "0ff30b2031ff6cea6dde15e224a9f7c05da04234f92f3f71ee92c0e7b59adb7e",
+        "size_in_bytes": 1581
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x08a.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1816c2c26d6cd898ab0992e261f304a8b872e3e3858238a8a0a3c1f74ca3483d",
+        "sha256_in_prefix": "1816c2c26d6cd898ab0992e261f304a8b872e3e3858238a8a0a3c1f74ca3483d",
+        "size_in_bytes": 1613
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x08b.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d02fdcd618acdcd3eccee3edb047911edd94e50445c62672e42de6d17ccd8d6",
+        "sha256_in_prefix": "7d02fdcd618acdcd3eccee3edb047911edd94e50445c62672e42de6d17ccd8d6",
+        "size_in_bytes": 1588
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x08c.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f3f873a85f28d74054c79bd2b6f5d1509dc1995bed4ccade6683ae7ef779bd9a",
+        "sha256_in_prefix": "f3f873a85f28d74054c79bd2b6f5d1509dc1995bed4ccade6683ae7ef779bd9a",
+        "size_in_bytes": 1597
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x08d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ad468ef4e1664df1d2e4cc61bda000a1b66d900d5c957a2c263de5ee0c2df0a5",
+        "sha256_in_prefix": "ad468ef4e1664df1d2e4cc61bda000a1b66d900d5c957a2c263de5ee0c2df0a5",
+        "size_in_bytes": 1580
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x08e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4712a55ab15b6667d581cf0a998518e1a376d475b1e572c828cceb6924fa525f",
+        "sha256_in_prefix": "4712a55ab15b6667d581cf0a998518e1a376d475b1e572c828cceb6924fa525f",
+        "size_in_bytes": 1613
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x08f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e8cf54f84d23ee58a156eed3eaab50821464e3d45633a58197c9fe56949da70f",
+        "sha256_in_prefix": "e8cf54f84d23ee58a156eed3eaab50821464e3d45633a58197c9fe56949da70f",
+        "size_in_bytes": 1583
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x090.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "14b7314fb8f93f0535939ea7e0e41b817b3bb9019ee23b229007856138ad8d31",
+        "sha256_in_prefix": "14b7314fb8f93f0535939ea7e0e41b817b3bb9019ee23b229007856138ad8d31",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x091.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7bf8e5a11296c10184478101cd13506bbf3cb0c3d6b582728603e7cc469d8a9e",
+        "sha256_in_prefix": "7bf8e5a11296c10184478101cd13506bbf3cb0c3d6b582728603e7cc469d8a9e",
+        "size_in_bytes": 1616
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x092.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5a9248901458c37a140cc56b902314eb96fae96508af6092e9136ef29d26c24",
+        "sha256_in_prefix": "e5a9248901458c37a140cc56b902314eb96fae96508af6092e9136ef29d26c24",
+        "size_in_bytes": 1614
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x093.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d8b3fa2b91bc240f564033f670e8cf349183e77a302b175a4a836d848982630b",
+        "sha256_in_prefix": "d8b3fa2b91bc240f564033f670e8cf349183e77a302b175a4a836d848982630b",
+        "size_in_bytes": 1580
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x094.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "37038c39a7bac01b051f36ac27f33ffaa22845a2abd1c2e734e2199e92f7dde4",
+        "sha256_in_prefix": "37038c39a7bac01b051f36ac27f33ffaa22845a2abd1c2e734e2199e92f7dde4",
+        "size_in_bytes": 1603
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x095.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8fb330c757aa3f2fe73c0b2f86d216f7430f005c4ddc2dce9b5d88533cbcabf3",
+        "sha256_in_prefix": "8fb330c757aa3f2fe73c0b2f86d216f7430f005c4ddc2dce9b5d88533cbcabf3",
+        "size_in_bytes": 1601
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x096.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "daccfe08b880aebf173bd32cf79f80c82339578b5e30f28d09e5441535d18908",
+        "sha256_in_prefix": "daccfe08b880aebf173bd32cf79f80c82339578b5e30f28d09e5441535d18908",
+        "size_in_bytes": 1577
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x097.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc3e2ed9f607d015591422bedfeb41c8de436cd2fff6e84048c5a11501e715f9",
+        "sha256_in_prefix": "fc3e2ed9f607d015591422bedfeb41c8de436cd2fff6e84048c5a11501e715f9",
+        "size_in_bytes": 1565
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x098.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8373a6a335a85cd441968c14d3a69fd7cdf8e7c3b879c70b43b2285ed18df5bf",
+        "sha256_in_prefix": "8373a6a335a85cd441968c14d3a69fd7cdf8e7c3b879c70b43b2285ed18df5bf",
+        "size_in_bytes": 1565
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x099.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "450ef8d8548e0b78fce20dd5216e6f9c9b9380893171ab44fd079ffbcd8fdac1",
+        "sha256_in_prefix": "450ef8d8548e0b78fce20dd5216e6f9c9b9380893171ab44fd079ffbcd8fdac1",
+        "size_in_bytes": 1577
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x09a.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7376996b05fb21a975efc498ffa5e5ce8197d7c8ad142faf787f716a8c71bf90",
+        "sha256_in_prefix": "7376996b05fb21a975efc498ffa5e5ce8197d7c8ad142faf787f716a8c71bf90",
+        "size_in_bytes": 1570
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x09b.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "42067b3eb5ceb605f82a24e05cfe3e9648b57b1e205a651b391abecefb957f17",
+        "sha256_in_prefix": "42067b3eb5ceb605f82a24e05cfe3e9648b57b1e205a651b391abecefb957f17",
+        "size_in_bytes": 1634
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x09c.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "df6e894e450004842616c84ecc59e6b3de58d1fc88d0072b8882441ae1fe90a9",
+        "sha256_in_prefix": "df6e894e450004842616c84ecc59e6b3de58d1fc88d0072b8882441ae1fe90a9",
+        "size_in_bytes": 1597
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x09d.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "31e72606ffe0b6b0d5851ac0798bcac2207fa6a8feac71f7742eacad3ae81d94",
+        "sha256_in_prefix": "31e72606ffe0b6b0d5851ac0798bcac2207fa6a8feac71f7742eacad3ae81d94",
+        "size_in_bytes": 1626
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x09e.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "55fce17f68a4e0f1de0a3064806fbdf5dab47bf6325ebc3b172aee7eb63500bd",
+        "sha256_in_prefix": "55fce17f68a4e0f1de0a3064806fbdf5dab47bf6325ebc3b172aee7eb63500bd",
+        "size_in_bytes": 1575
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x09f.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "baedd484ade4130264600bbbb6d39ea8790c678780a665992484b7874bec3e00",
+        "sha256_in_prefix": "baedd484ade4130264600bbbb6d39ea8790c678780a665992484b7874bec3e00",
+        "size_in_bytes": 1161
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0a0.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e86f26ed9adc17e3d73c71fb7184afcced30dc49266ba6ce60b57607c425eaf8",
+        "sha256_in_prefix": "e86f26ed9adc17e3d73c71fb7184afcced30dc49266ba6ce60b57607c425eaf8",
+        "size_in_bytes": 1493
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0a1.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf04c6f66cb481fe9cb6c6a87047ac3d7a14756b8f07eabb70b09a555233f092",
+        "sha256_in_prefix": "cf04c6f66cb481fe9cb6c6a87047ac3d7a14756b8f07eabb70b09a555233f092",
+        "size_in_bytes": 1534
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0a2.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1143002114a261efac252aa0b74e5502320531d9bc55cfdbc69c6ed34c3aad60",
+        "sha256_in_prefix": "1143002114a261efac252aa0b74e5502320531d9bc55cfdbc69c6ed34c3aad60",
+        "size_in_bytes": 1568
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0a3.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "514b75058e881b6ce1e7df01fc761f9d932fe8904c6b440347d9c5a94160c047",
+        "sha256_in_prefix": "514b75058e881b6ce1e7df01fc761f9d932fe8904c6b440347d9c5a94160c047",
+        "size_in_bytes": 1586
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0a4.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "feec57defcdee8c30d3ea012db0eab1412c667da04013ae13b1155204fd76f25",
+        "sha256_in_prefix": "feec57defcdee8c30d3ea012db0eab1412c667da04013ae13b1155204fd76f25",
+        "size_in_bytes": 1255
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0ac.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0aa21caa1a5e4758ffbf8eec47e60e79dedecad5f1adbba318a6df16e60e674a",
+        "sha256_in_prefix": "0aa21caa1a5e4758ffbf8eec47e60e79dedecad5f1adbba318a6df16e60e674a",
+        "size_in_bytes": 1774
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0ad.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8e3a5e3505159b373f8c04a2bd71f0429d73c708a5f686292db4ade8f7f7fe9",
+        "sha256_in_prefix": "b8e3a5e3505159b373f8c04a2bd71f0429d73c708a5f686292db4ade8f7f7fe9",
+        "size_in_bytes": 1831
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0ae.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ec59997f6c1bc444bf8e747b09a00fd9b4ab14fba7fa36060682815a50293f5e",
+        "sha256_in_prefix": "ec59997f6c1bc444bf8e747b09a00fd9b4ab14fba7fa36060682815a50293f5e",
+        "size_in_bytes": 1940
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0af.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9104b618e04c20c84479bc922f8c7242582dfc138fdef543c1f0eea9189717e4",
+        "sha256_in_prefix": "9104b618e04c20c84479bc922f8c7242582dfc138fdef543c1f0eea9189717e4",
+        "size_in_bytes": 2077
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b0.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "764da8c6c919465aa13925cf8ddf15d2d3bfa722c975326afdd71ea75808e780",
+        "sha256_in_prefix": "764da8c6c919465aa13925cf8ddf15d2d3bfa722c975326afdd71ea75808e780",
+        "size_in_bytes": 1918
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b1.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "84f9a6c805ebee509aace5a9e65882b1ed80c015347a7afabad7afda484cf66d",
+        "sha256_in_prefix": "84f9a6c805ebee509aace5a9e65882b1ed80c015347a7afabad7afda484cf66d",
+        "size_in_bytes": 1811
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b2.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ed593d91dd6545cbd95ca76c7d55d8876296afa0f06ee9d81a525a560e8829c",
+        "sha256_in_prefix": "9ed593d91dd6545cbd95ca76c7d55d8876296afa0f06ee9d81a525a560e8829c",
+        "size_in_bytes": 1745
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b3.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5b991dc2d5928b48377234c0df7e0754cfdd50edd6b62d43a4a49e958eeb9adb",
+        "sha256_in_prefix": "5b991dc2d5928b48377234c0df7e0754cfdd50edd6b62d43a4a49e958eeb9adb",
+        "size_in_bytes": 1806
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b4.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b4e6bbb60df8139aaa51a53ffb2d7fe08e8b478996afd7b9dac016545673192",
+        "sha256_in_prefix": "7b4e6bbb60df8139aaa51a53ffb2d7fe08e8b478996afd7b9dac016545673192",
+        "size_in_bytes": 1827
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b5.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "cb0c993dc9fde0dbb9f97ccbea40c5079c8c26397468a479b791af1520286de9",
+        "sha256_in_prefix": "cb0c993dc9fde0dbb9f97ccbea40c5079c8c26397468a479b791af1520286de9",
+        "size_in_bytes": 1984
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b6.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "51ca4d644d0908570716c2c46544ae57df1bc1a51ca03c812acd2a774e637177",
+        "sha256_in_prefix": "51ca4d644d0908570716c2c46544ae57df1bc1a51ca03c812acd2a774e637177",
+        "size_in_bytes": 2061
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b7.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "755e8839e045565865db57e9948b086fec1500f9d694674819fb1c26ef59cef7",
+        "sha256_in_prefix": "755e8839e045565865db57e9948b086fec1500f9d694674819fb1c26ef59cef7",
+        "size_in_bytes": 1898
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b8.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fbe7ec362da6246cd66d95e0e20700e58b95bf6354b9e6e52880a431031ef7c0",
+        "sha256_in_prefix": "fbe7ec362da6246cd66d95e0e20700e58b95bf6354b9e6e52880a431031ef7c0",
+        "size_in_bytes": 1779
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0b9.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "90f3fa25bb8df24c77d94c96e46cfd08403892a85f95e48fbf381ab4dc27afff",
+        "sha256_in_prefix": "90f3fa25bb8df24c77d94c96e46cfd08403892a85f95e48fbf381ab4dc27afff",
+        "size_in_bytes": 1769
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0ba.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b71f4ddad210b457bad843bd5ef9d156d1f2cfded67de26a5481bd12ad80d50c",
+        "sha256_in_prefix": "b71f4ddad210b457bad843bd5ef9d156d1f2cfded67de26a5481bd12ad80d50c",
+        "size_in_bytes": 1830
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0bb.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d8d0c0399a88e0dd5c75d74b0eb3b181330a2331bfcd0aff4da4af7342f7c28c",
+        "sha256_in_prefix": "d8d0c0399a88e0dd5c75d74b0eb3b181330a2331bfcd0aff4da4af7342f7c28c",
+        "size_in_bytes": 1795
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0bc.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fef1ae293995a42fc740e42952f03285beda5632c9d182f569592560db57dc5c",
+        "sha256_in_prefix": "fef1ae293995a42fc740e42952f03285beda5632c9d182f569592560db57dc5c",
+        "size_in_bytes": 1772
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0bd.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f0a76dbf5c28fdce0451de2bb23e002fd2b3dc747a2c33bb1a590e931820d5ee",
+        "sha256_in_prefix": "f0a76dbf5c28fdce0451de2bb23e002fd2b3dc747a2c33bb1a590e931820d5ee",
+        "size_in_bytes": 1817
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0be.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0c6630c4a2275dcf2db984866f633af8703fc387a0dbb7eea4adc88454525060",
+        "sha256_in_prefix": "0c6630c4a2275dcf2db984866f633af8703fc387a0dbb7eea4adc88454525060",
+        "size_in_bytes": 1914
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0bf.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "106482a444191a7ab6bf238440077d9df611737b11a7fc2c5e0f453ae0caadb9",
+        "sha256_in_prefix": "106482a444191a7ab6bf238440077d9df611737b11a7fc2c5e0f453ae0caadb9",
+        "size_in_bytes": 2075
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c0.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "46654b5a87c79d3e0689359f77363881370f81f344df7edc0d705cf41ef22749",
+        "sha256_in_prefix": "46654b5a87c79d3e0689359f77363881370f81f344df7edc0d705cf41ef22749",
+        "size_in_bytes": 1921
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c1.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d8664aa05b8ffa873b0d61a8fd308c664e25741cdf31d74e7c13eb81c8d7e299",
+        "sha256_in_prefix": "d8664aa05b8ffa873b0d61a8fd308c664e25741cdf31d74e7c13eb81c8d7e299",
+        "size_in_bytes": 1830
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c2.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2e0199e8ab0b879935592a8172295f53a21f8056c132bb22781161d3d30229da",
+        "sha256_in_prefix": "2e0199e8ab0b879935592a8172295f53a21f8056c132bb22781161d3d30229da",
+        "size_in_bytes": 1775
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c3.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "857482d72a360f35e89a3c7b4a0a973af98c1dacc985e84cd44b9ee88a91ae66",
+        "sha256_in_prefix": "857482d72a360f35e89a3c7b4a0a973af98c1dacc985e84cd44b9ee88a91ae66",
+        "size_in_bytes": 2040
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c4.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "df8c8089bc0a7cb10a592bd1aa3a33f4657eac8cdb8c7ec4c80a3ac304a559f8",
+        "sha256_in_prefix": "df8c8089bc0a7cb10a592bd1aa3a33f4657eac8cdb8c7ec4c80a3ac304a559f8",
+        "size_in_bytes": 2089
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c5.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "960b55cd878febc3c6330dffbc5352aa47c4fb5ad2b211bafadb63f6cfdb160f",
+        "sha256_in_prefix": "960b55cd878febc3c6330dffbc5352aa47c4fb5ad2b211bafadb63f6cfdb160f",
+        "size_in_bytes": 1646
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c6.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2ae893fcf4fcb391beb32ae7ce496d53c204ecbef79c57b79f54d4cffe85cb7e",
+        "sha256_in_prefix": "2ae893fcf4fcb391beb32ae7ce496d53c204ecbef79c57b79f54d4cffe85cb7e",
+        "size_in_bytes": 1555
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c7.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4e8522c35701c5de9c20b71f3f7ab8f2b5470f3a22ade4eff1cd058b4618bace",
+        "sha256_in_prefix": "4e8522c35701c5de9c20b71f3f7ab8f2b5470f3a22ade4eff1cd058b4618bace",
+        "size_in_bytes": 1629
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c8.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a781b87efe883ce608a95eb33489b3d4603bc8e8f0958bfc33b096b77bd4f337",
+        "sha256_in_prefix": "a781b87efe883ce608a95eb33489b3d4603bc8e8f0958bfc33b096b77bd4f337",
+        "size_in_bytes": 1798
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0c9.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d1cb962d5a7d402a6231fb818452e99151d98a23c57323cd1ab0c114414f734a",
+        "sha256_in_prefix": "d1cb962d5a7d402a6231fb818452e99151d98a23c57323cd1ab0c114414f734a",
+        "size_in_bytes": 1787
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0ca.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f4aae001cd4dcd0702f7f2047aca502e1dd6c419d8b1a494eceeaa8032cb424",
+        "sha256_in_prefix": "9f4aae001cd4dcd0702f7f2047aca502e1dd6c419d8b1a494eceeaa8032cb424",
+        "size_in_bytes": 2072
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0cb.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "487cfe1928475612ee76201249aa91fd7dfe023487128568cd65391312eca86e",
+        "sha256_in_prefix": "487cfe1928475612ee76201249aa91fd7dfe023487128568cd65391312eca86e",
+        "size_in_bytes": 2077
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0cc.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5fd25a5eb36b6232e4c20f48e90fff42616e59922f2c13b594cd4f4aed2e74d",
+        "sha256_in_prefix": "d5fd25a5eb36b6232e4c20f48e90fff42616e59922f2c13b594cd4f4aed2e74d",
+        "size_in_bytes": 1814
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0cd.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6bc3a020f3baeef3b04159d40f647490a0da83f5fec5dc6b1eda7f5ab829ceb3",
+        "sha256_in_prefix": "6bc3a020f3baeef3b04159d40f647490a0da83f5fec5dc6b1eda7f5ab829ceb3",
+        "size_in_bytes": 1803
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0ce.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3419e8f57a3ccc62194bb68f1f29f32d09123e76f2a6a0fb80caaee34bc9d4ae",
+        "sha256_in_prefix": "3419e8f57a3ccc62194bb68f1f29f32d09123e76f2a6a0fb80caaee34bc9d4ae",
+        "size_in_bytes": 1773
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0cf.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "906aca58d5fdd2f00db2e397cb6eac05cdb9aa1b8ed4118a7ddf7ce184a6878c",
+        "sha256_in_prefix": "906aca58d5fdd2f00db2e397cb6eac05cdb9aa1b8ed4118a7ddf7ce184a6878c",
+        "size_in_bytes": 1778
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d0.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5e427ab076401b1bd292cecebb0e25f6083ad676569d6cbec4427b22d913859",
+        "sha256_in_prefix": "d5e427ab076401b1bd292cecebb0e25f6083ad676569d6cbec4427b22d913859",
+        "size_in_bytes": 1771
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d1.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b6b8d4df96bb631af19a71c6f24760117023f87e01cfaf87b73835ee84573045",
+        "sha256_in_prefix": "b6b8d4df96bb631af19a71c6f24760117023f87e01cfaf87b73835ee84573045",
+        "size_in_bytes": 1832
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d2.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f61a9565e37921f917d67a62abd2131521ef1f53796e20718bb75f943ce219c",
+        "sha256_in_prefix": "8f61a9565e37921f917d67a62abd2131521ef1f53796e20718bb75f943ce219c",
+        "size_in_bytes": 1789
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d3.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a841acad3d601b79ed4d94afe2a3a8d32bf699816f136976ef09ad7eb726ad74",
+        "sha256_in_prefix": "a841acad3d601b79ed4d94afe2a3a8d32bf699816f136976ef09ad7eb726ad74",
+        "size_in_bytes": 1770
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d4.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8c92ac826746da5c687608004b0844ae96b1facd91a35bdbac850ba30ec2ec63",
+        "sha256_in_prefix": "8c92ac826746da5c687608004b0844ae96b1facd91a35bdbac850ba30ec2ec63",
+        "size_in_bytes": 1823
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d5.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d2d8bb5257a0124c3dfbd254a6df664b4979d17144f0af5d6b80162656ec1183",
+        "sha256_in_prefix": "d2d8bb5257a0124c3dfbd254a6df664b4979d17144f0af5d6b80162656ec1183",
+        "size_in_bytes": 1745
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d6.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b961eed7b092d11c0a6a665db36c85a2dbca2bbe0ee8eb3654d70a986189c4e",
+        "sha256_in_prefix": "6b961eed7b092d11c0a6a665db36c85a2dbca2bbe0ee8eb3654d70a986189c4e",
+        "size_in_bytes": 1830
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0d7.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "285cfab4b84989a56a5e23c9083f3d0eb9510ac01072e30fdf693a10fa75f42d",
+        "sha256_in_prefix": "285cfab4b84989a56a5e23c9083f3d0eb9510ac01072e30fdf693a10fa75f42d",
+        "size_in_bytes": 1269
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0f9.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f400e94a7924a5540b3ea6074e0e0045d7aab1e0bdaaa5126ee7c8cb2aa5b9b4",
+        "sha256_in_prefix": "f400e94a7924a5540b3ea6074e0e0045d7aab1e0bdaaa5126ee7c8cb2aa5b9b4",
+        "size_in_bytes": 1513
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0fa.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "48678212cc3996a38cd26a635af18534613c286795074bb566dd59c92931c1ee",
+        "sha256_in_prefix": "48678212cc3996a38cd26a635af18534613c286795074bb566dd59c92931c1ee",
+        "size_in_bytes": 573
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0fb.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f541f8a73b54fb18fd530441a52728f4b014653aa3c03675aaea9d8232bb4822",
+        "sha256_in_prefix": "f541f8a73b54fb18fd530441a52728f4b014653aa3c03675aaea9d8232bb4822",
+        "size_in_bytes": 1146
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0fc.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c67388fb845cd901afed4713fccff86cbf1878920f6f3b960294f17ea5670a23",
+        "sha256_in_prefix": "c67388fb845cd901afed4713fccff86cbf1878920f6f3b960294f17ea5670a23",
+        "size_in_bytes": 1425
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0fd.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ddc7a03cbb65d051fb0ab8583a7ae7a429bf7992f7d76ebe226dd3c9e0f53aa2",
+        "sha256_in_prefix": "ddc7a03cbb65d051fb0ab8583a7ae7a429bf7992f7d76ebe226dd3c9e0f53aa2",
+        "size_in_bytes": 1173
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0fe.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff92618b4f3b6cd347afbdec33e47c4313488845b61cb7e75890ce93f1de8037",
+        "sha256_in_prefix": "ff92618b4f3b6cd347afbdec33e47c4313488845b61cb7e75890ce93f1de8037",
+        "size_in_bytes": 1143
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x0ff.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "395d0b30b27731bd757004b1d8c88f6264422a0977e1e12fd5db448a9347b7d7",
+        "sha256_in_prefix": "395d0b30b27731bd757004b1d8c88f6264422a0977e1e12fd5db448a9347b7d7",
+        "size_in_bytes": 1065
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x1d4.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "67bddd4c88124327714d27dfaff32b3fcb7391e7ef82f9c064b645f511a564c2",
+        "sha256_in_prefix": "67bddd4c88124327714d27dfaff32b3fcb7391e7ef82f9c064b645f511a564c2",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x1d5.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a1d899444a7e2c21b8c9cd0b8f9430bcda8fac44f1f6c670c329d48df959ab69",
+        "sha256_in_prefix": "a1d899444a7e2c21b8c9cd0b8f9430bcda8fac44f1f6c670c329d48df959ab69",
+        "size_in_bytes": 1276
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x1d6.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "aa710ea87d54af59d840d29ec1a6db8026b77234fa4d02883b5e8a07db5427bc",
+        "sha256_in_prefix": "aa710ea87d54af59d840d29ec1a6db8026b77234fa4d02883b5e8a07db5427bc",
+        "size_in_bytes": 1224
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x1d7.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7766b8a32729d00a8b123590223141a4f19b4ef7bab5c0ff223f39ed35d42397",
+        "sha256_in_prefix": "7766b8a32729d00a8b123590223141a4f19b4ef7bab5c0ff223f39ed35d42397",
+        "size_in_bytes": 584
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x1f1.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e64b58c004cde78573176fa55de8c32d8c7d3423573c647bfb44e989167cff8c",
+        "sha256_in_prefix": "e64b58c004cde78573176fa55de8c32d8c7d3423573c647bfb44e989167cff8c",
+        "size_in_bytes": 1059
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/__pycache__/x1f6.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5ed788f7a039f60ea90207767ef1cd7b6df906d53aca2e7df08afb3edaa537f9",
+        "sha256_in_prefix": "5ed788f7a039f60ea90207767ef1cd7b6df906d53aca2e7df08afb3edaa537f9",
+        "size_in_bytes": 445
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/util.py",
+        "path_type": "hardlink",
+        "sha256": "671b2c645cdb66501fea888322ed87663ac041c91b383d953c3f6ecbec198022",
+        "sha256_in_prefix": "671b2c645cdb66501fea888322ed87663ac041c91b383d953c3f6ecbec198022",
+        "size_in_bytes": 1652
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x000.py",
+        "path_type": "hardlink",
+        "sha256": "0daa15cd20af1738731db16dcc5384f2e4bd0a0583ecadc9ba19800a915b8af6",
+        "sha256_in_prefix": "0daa15cd20af1738731db16dcc5384f2e4bd0a0583ecadc9ba19800a915b8af6",
+        "size_in_bytes": 3038
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x001.py",
+        "path_type": "hardlink",
+        "sha256": "ca51e1dd455a3ed89b56e504116bdd49e0c52b4397ad6b78f8b9f1020603eaaa",
+        "sha256_in_prefix": "ca51e1dd455a3ed89b56e504116bdd49e0c52b4397ad6b78f8b9f1020603eaaa",
+        "size_in_bytes": 3891
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x002.py",
+        "path_type": "hardlink",
+        "sha256": "356a2b77c9b28b68d857863094d6456cabba1e06dba2558b3423a5b1e4775ac6",
+        "sha256_in_prefix": "356a2b77c9b28b68d857863094d6456cabba1e06dba2558b3423a5b1e4775ac6",
+        "size_in_bytes": 3871
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x003.py",
+        "path_type": "hardlink",
+        "sha256": "e60652e5a5db43867c687d3c11e84ac784aa02050d05c4f3ff1f88de8e6abd58",
+        "sha256_in_prefix": "e60652e5a5db43867c687d3c11e84ac784aa02050d05c4f3ff1f88de8e6abd58",
+        "size_in_bytes": 3825
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x004.py",
+        "path_type": "hardlink",
+        "sha256": "2807898ca824773314d4c2bd27d26a98f78a043823846e5471fc806b9f781e4f",
+        "sha256_in_prefix": "2807898ca824773314d4c2bd27d26a98f78a043823846e5471fc806b9f781e4f",
+        "size_in_bytes": 4054
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x005.py",
+        "path_type": "hardlink",
+        "sha256": "edeccfc85e7688a88ae4b3dfe93039cd5519ed16c88f3ec454b4b8d9a5c6f6e8",
+        "sha256_in_prefix": "edeccfc85e7688a88ae4b3dfe93039cd5519ed16c88f3ec454b4b8d9a5c6f6e8",
+        "size_in_bytes": 3920
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x006.py",
+        "path_type": "hardlink",
+        "sha256": "2727bcdde5d842ab69a30c6c434d634120e58408d66e618d1517666e88ef8321",
+        "sha256_in_prefix": "2727bcdde5d842ab69a30c6c434d634120e58408d66e618d1517666e88ef8321",
+        "size_in_bytes": 3912
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x007.py",
+        "path_type": "hardlink",
+        "sha256": "ea59e79c0ac49af8b75de64b170ac26464ad743283007b7b6a5229768f12eeb9",
+        "sha256_in_prefix": "ea59e79c0ac49af8b75de64b170ac26464ad743283007b7b6a5229768f12eeb9",
+        "size_in_bytes": 3987
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x009.py",
+        "path_type": "hardlink",
+        "sha256": "c4dcfcaab3b53c3b1e3233b0034ae3b220213594cefee1608e999ba7ba9c1ff7",
+        "sha256_in_prefix": "c4dcfcaab3b53c3b1e3233b0034ae3b220213594cefee1608e999ba7ba9c1ff7",
+        "size_in_bytes": 4013
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x00a.py",
+        "path_type": "hardlink",
+        "sha256": "db192c2abacc585f712dbb3c38f7d3c53ee0f3a722c1d2bd419f0041e79c9aeb",
+        "sha256_in_prefix": "db192c2abacc585f712dbb3c38f7d3c53ee0f3a722c1d2bd419f0041e79c9aeb",
+        "size_in_bytes": 4019
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x00b.py",
+        "path_type": "hardlink",
+        "sha256": "63b1a57d8136bfe0f706465dddcb5fa3a2f6d551be691d8e1444916fcfd6447e",
+        "sha256_in_prefix": "63b1a57d8136bfe0f706465dddcb5fa3a2f6d551be691d8e1444916fcfd6447e",
+        "size_in_bytes": 4019
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x00c.py",
+        "path_type": "hardlink",
+        "sha256": "8ce1a9354eefc60869de3c14b94013892ac3c2f819b8e7bc9e591c8c96131dca",
+        "sha256_in_prefix": "8ce1a9354eefc60869de3c14b94013892ac3c2f819b8e7bc9e591c8c96131dca",
+        "size_in_bytes": 4007
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x00d.py",
+        "path_type": "hardlink",
+        "sha256": "96415ff1dfe85cdf08668a7a085958a4a756b89a961a71f45903308abe3f5a02",
+        "sha256_in_prefix": "96415ff1dfe85cdf08668a7a085958a4a756b89a961a71f45903308abe3f5a02",
+        "size_in_bytes": 4025
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x00e.py",
+        "path_type": "hardlink",
+        "sha256": "01128afffb085d45cbe21d8481a7367fd9e0d99fd80860f99183f6a23fa9b652",
+        "sha256_in_prefix": "01128afffb085d45cbe21d8481a7367fd9e0d99fd80860f99183f6a23fa9b652",
+        "size_in_bytes": 3989
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x00f.py",
+        "path_type": "hardlink",
+        "sha256": "4dd4a6afbe79270d5346dc64e59e143d9229d425615e28bc4b4cd201c436bd69",
+        "sha256_in_prefix": "4dd4a6afbe79270d5346dc64e59e143d9229d425615e28bc4b4cd201c436bd69",
+        "size_in_bytes": 3998
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x010.py",
+        "path_type": "hardlink",
+        "sha256": "6215d7f2cd5d3fb60933369a57d08c0423ab684c5be90ad04166e4153dddd89a",
+        "sha256_in_prefix": "6215d7f2cd5d3fb60933369a57d08c0423ab684c5be90ad04166e4153dddd89a",
+        "size_in_bytes": 4011
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x011.py",
+        "path_type": "hardlink",
+        "sha256": "6dce6502c7b485a8a8da971e6800ea923cd387c31d80d4f04e1d385b61493be4",
+        "sha256_in_prefix": "6dce6502c7b485a8a8da971e6800ea923cd387c31d80d4f04e1d385b61493be4",
+        "size_in_bytes": 4120
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x012.py",
+        "path_type": "hardlink",
+        "sha256": "5e889116f36d1d5dbd43be8a7293c14ab0b8b0b77a7da4f3e2d29910c210e393",
+        "sha256_in_prefix": "5e889116f36d1d5dbd43be8a7293c14ab0b8b0b77a7da4f3e2d29910c210e393",
+        "size_in_bytes": 4293
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x013.py",
+        "path_type": "hardlink",
+        "sha256": "524c526f6438c6aeddc9d099360fdfd0dbbdd2c9554a601c92af9bb4367bb800",
+        "sha256_in_prefix": "524c526f6438c6aeddc9d099360fdfd0dbbdd2c9554a601c92af9bb4367bb800",
+        "size_in_bytes": 4190
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x014.py",
+        "path_type": "hardlink",
+        "sha256": "e11df0fc3820f720b0fbd2a4a6a1df585cf241965f75be38e1f308876e3497e4",
+        "sha256_in_prefix": "e11df0fc3820f720b0fbd2a4a6a1df585cf241965f75be38e1f308876e3497e4",
+        "size_in_bytes": 4298
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x015.py",
+        "path_type": "hardlink",
+        "sha256": "4c1e8ee25daa3f16e617675e8e5c572ea5f9b537e397de5c318c75efbd061ecd",
+        "sha256_in_prefix": "4c1e8ee25daa3f16e617675e8e5c572ea5f9b537e397de5c318c75efbd061ecd",
+        "size_in_bytes": 4329
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x016.py",
+        "path_type": "hardlink",
+        "sha256": "4f1dcff838c3a822ee29b9a21bed1c333c36c4556ea23420de8e72cade39d3a1",
+        "sha256_in_prefix": "4f1dcff838c3a822ee29b9a21bed1c333c36c4556ea23420de8e72cade39d3a1",
+        "size_in_bytes": 4114
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x017.py",
+        "path_type": "hardlink",
+        "sha256": "2acfedfb80603ab4ea9aa602e81a6a5de3c8f98c92b44ee9dcfdbb97305e7d20",
+        "sha256_in_prefix": "2acfedfb80603ab4ea9aa602e81a6a5de3c8f98c92b44ee9dcfdbb97305e7d20",
+        "size_in_bytes": 4038
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x018.py",
+        "path_type": "hardlink",
+        "sha256": "0b58e99ec2b760edbbc698962760d7480915f5db0f5302aa5ad92078fb73a778",
+        "sha256_in_prefix": "0b58e99ec2b760edbbc698962760d7480915f5db0f5302aa5ad92078fb73a778",
+        "size_in_bytes": 3998
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x01d.py",
+        "path_type": "hardlink",
+        "sha256": "13001890c547005bdb291cec43e7b871172f4bf7a26b791808cd8671aaa40566",
+        "sha256_in_prefix": "13001890c547005bdb291cec43e7b871172f4bf7a26b791808cd8671aaa40566",
+        "size_in_bytes": 3701
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x01e.py",
+        "path_type": "hardlink",
+        "sha256": "ac6d63b4bd1da4bf9136cbc6f80c57d62ce4c9691b8307b40568404c326d9a08",
+        "sha256_in_prefix": "ac6d63b4bd1da4bf9136cbc6f80c57d62ce4c9691b8307b40568404c326d9a08",
+        "size_in_bytes": 3845
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x01f.py",
+        "path_type": "hardlink",
+        "sha256": "3540b6ae5144f58a4e0dd0e7e1ee6ecd5eee22a10136f2b0e3cea7383ed44294",
+        "sha256_in_prefix": "3540b6ae5144f58a4e0dd0e7e1ee6ecd5eee22a10136f2b0e3cea7383ed44294",
+        "size_in_bytes": 3877
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x020.py",
+        "path_type": "hardlink",
+        "sha256": "9578fcc2458c6c3d88bb0dce0ab12a6687c98c971c9ef637ae8e52a72a2d0aaf",
+        "sha256_in_prefix": "9578fcc2458c6c3d88bb0dce0ab12a6687c98c971c9ef637ae8e52a72a2d0aaf",
+        "size_in_bytes": 4080
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x021.py",
+        "path_type": "hardlink",
+        "sha256": "4101965c5990850f5e8baad50b1db2fa96f1ffeee7f1bbfd0c626974afd0f237",
+        "sha256_in_prefix": "4101965c5990850f5e8baad50b1db2fa96f1ffeee7f1bbfd0c626974afd0f237",
+        "size_in_bytes": 3987
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x022.py",
+        "path_type": "hardlink",
+        "sha256": "c17e81511ef228681220223363f075e66aa09e3bd16d295ea4ce9aa9bdad9c66",
+        "sha256_in_prefix": "c17e81511ef228681220223363f075e66aa09e3bd16d295ea4ce9aa9bdad9c66",
+        "size_in_bytes": 4085
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x023.py",
+        "path_type": "hardlink",
+        "sha256": "c1e79b5d7a98dc4f0e86a4b4ce200a1e8e7c9429777649320f4c3668a1eabfb4",
+        "sha256_in_prefix": "c1e79b5d7a98dc4f0e86a4b4ce200a1e8e7c9429777649320f4c3668a1eabfb4",
+        "size_in_bytes": 4089
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x024.py",
+        "path_type": "hardlink",
+        "sha256": "26609316762d98c1d0bdf60ffb87f9b83882c65c21364ecb64bcb12d65868caf",
+        "sha256_in_prefix": "26609316762d98c1d0bdf60ffb87f9b83882c65c21364ecb64bcb12d65868caf",
+        "size_in_bytes": 4003
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x025.py",
+        "path_type": "hardlink",
+        "sha256": "0c031d09a908bf49b6d4059c45434af505917826173d2c150e66c576b88ce2a7",
+        "sha256_in_prefix": "0c031d09a908bf49b6d4059c45434af505917826173d2c150e66c576b88ce2a7",
+        "size_in_bytes": 3854
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x026.py",
+        "path_type": "hardlink",
+        "sha256": "4ca5347304572fcbcb026676e91f04d9da649979912b1e304d4d1511bb930273",
+        "sha256_in_prefix": "4ca5347304572fcbcb026676e91f04d9da649979912b1e304d4d1511bb930273",
+        "size_in_bytes": 3874
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x027.py",
+        "path_type": "hardlink",
+        "sha256": "a9969cc5f852e675a00616eb213ebec26f7218ffce94055127e19c99484f975e",
+        "sha256_in_prefix": "a9969cc5f852e675a00616eb213ebec26f7218ffce94055127e19c99484f975e",
+        "size_in_bytes": 3718
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x028.py",
+        "path_type": "hardlink",
+        "sha256": "1593c267dc3737758e238da1da01c442054e0252c135366332efca41090831d9",
+        "sha256_in_prefix": "1593c267dc3737758e238da1da01c442054e0252c135366332efca41090831d9",
+        "size_in_bytes": 5069
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x029.py",
+        "path_type": "hardlink",
+        "sha256": "6fc69f986f838d99871f2d177637199525ed967c2349c21c3c119b32ffd84944",
+        "sha256_in_prefix": "6fc69f986f838d99871f2d177637199525ed967c2349c21c3c119b32ffd84944",
+        "size_in_bytes": 4090
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x02a.py",
+        "path_type": "hardlink",
+        "sha256": "4070321e77a05743953934393a77c92b391a1d02056d69a6323885707194662d",
+        "sha256_in_prefix": "4070321e77a05743953934393a77c92b391a1d02056d69a6323885707194662d",
+        "size_in_bytes": 4093
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x02c.py",
+        "path_type": "hardlink",
+        "sha256": "66498cced6984fb77cd44f6ab5453d6b21bd8418b95ea598fed6be5f91ec6aa7",
+        "sha256_in_prefix": "66498cced6984fb77cd44f6ab5453d6b21bd8418b95ea598fed6be5f91ec6aa7",
+        "size_in_bytes": 4076
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x02e.py",
+        "path_type": "hardlink",
+        "sha256": "5421a52bbd76dd2db00f37e48201004721992a2fb41257a949810218696e7fb1",
+        "sha256_in_prefix": "5421a52bbd76dd2db00f37e48201004721992a2fb41257a949810218696e7fb1",
+        "size_in_bytes": 4072
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x02f.py",
+        "path_type": "hardlink",
+        "sha256": "85c513964c3fe878e7c6c9347b6f114ddf875a948ad081aae6192bc00d5f2459",
+        "sha256_in_prefix": "85c513964c3fe878e7c6c9347b6f114ddf875a948ad081aae6192bc00d5f2459",
+        "size_in_bytes": 4091
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x030.py",
+        "path_type": "hardlink",
+        "sha256": "c1da1d882fcdedb32c87cbd29951744931c6667380b199d537efd13e2aaea510",
+        "sha256_in_prefix": "c1da1d882fcdedb32c87cbd29951744931c6667380b199d537efd13e2aaea510",
+        "size_in_bytes": 4028
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x031.py",
+        "path_type": "hardlink",
+        "sha256": "8de774c68a909949e73aa01355eef3f45db38a0019540257e81ad6b5714f59bb",
+        "sha256_in_prefix": "8de774c68a909949e73aa01355eef3f45db38a0019540257e81ad6b5714f59bb",
+        "size_in_bytes": 4044
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x032.py",
+        "path_type": "hardlink",
+        "sha256": "963e08c2890a03421d2098892537e60541956265af2e8c05b4f2f02f385fa245",
+        "sha256_in_prefix": "963e08c2890a03421d2098892537e60541956265af2e8c05b4f2f02f385fa245",
+        "size_in_bytes": 4466
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x033.py",
+        "path_type": "hardlink",
+        "sha256": "2264dde014513e00aa5a6aef24fa229282f474930a1fc79081de3cbe4b22eb40",
+        "sha256_in_prefix": "2264dde014513e00aa5a6aef24fa229282f474930a1fc79081de3cbe4b22eb40",
+        "size_in_bytes": 4513
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x04d.py",
+        "path_type": "hardlink",
+        "sha256": "85c513964c3fe878e7c6c9347b6f114ddf875a948ad081aae6192bc00d5f2459",
+        "sha256_in_prefix": "85c513964c3fe878e7c6c9347b6f114ddf875a948ad081aae6192bc00d5f2459",
+        "size_in_bytes": 4091
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x04e.py",
+        "path_type": "hardlink",
+        "sha256": "5fe3f3979fd01a461ec73353634e02fedab746f6f201461e99fd02e26225e7e5",
+        "sha256_in_prefix": "5fe3f3979fd01a461ec73353634e02fedab746f6f201461e99fd02e26225e7e5",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x04f.py",
+        "path_type": "hardlink",
+        "sha256": "04cdbdfb63936fa691ec237b34c3779e70bd046c6079d88b10718c70807910d5",
+        "sha256_in_prefix": "04cdbdfb63936fa691ec237b34c3779e70bd046c6079d88b10718c70807910d5",
+        "size_in_bytes": 4597
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x050.py",
+        "path_type": "hardlink",
+        "sha256": "48f9a403e3c3dfd57c78ee03072c556bc1f2a9a9c6730e78c56e7590b9da89e6",
+        "sha256_in_prefix": "48f9a403e3c3dfd57c78ee03072c556bc1f2a9a9c6730e78c56e7590b9da89e6",
+        "size_in_bytes": 4676
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x051.py",
+        "path_type": "hardlink",
+        "sha256": "186253f9f898c5393f140016e9e4e86d3de938623e42ad4cdde0b137b73b7f91",
+        "sha256_in_prefix": "186253f9f898c5393f140016e9e4e86d3de938623e42ad4cdde0b137b73b7f91",
+        "size_in_bytes": 4681
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x052.py",
+        "path_type": "hardlink",
+        "sha256": "6b4f5ea3fe692fa8e953d4d6fb31b6c368974d8a7a6b0b50e0ec469cb75cc0a8",
+        "sha256_in_prefix": "6b4f5ea3fe692fa8e953d4d6fb31b6c368974d8a7a6b0b50e0ec469cb75cc0a8",
+        "size_in_bytes": 4654
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x053.py",
+        "path_type": "hardlink",
+        "sha256": "e31f17e07adfe7a0ce0083588bc2714ad5d6e26ec51893621fee752730b113ae",
+        "sha256_in_prefix": "e31f17e07adfe7a0ce0083588bc2714ad5d6e26ec51893621fee752730b113ae",
+        "size_in_bytes": 4608
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x054.py",
+        "path_type": "hardlink",
+        "sha256": "37c84ef18ae53687a99eb60b519fc4713551a88d657a4aaade1fa2f943654c9c",
+        "sha256_in_prefix": "37c84ef18ae53687a99eb60b519fc4713551a88d657a4aaade1fa2f943654c9c",
+        "size_in_bytes": 4577
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x055.py",
+        "path_type": "hardlink",
+        "sha256": "fcf2bae472e993ba6ea2300519e3a6e42764f8f0debc71c8e8d47cb07ba8d0aa",
+        "sha256_in_prefix": "fcf2bae472e993ba6ea2300519e3a6e42764f8f0debc71c8e8d47cb07ba8d0aa",
+        "size_in_bytes": 4595
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x056.py",
+        "path_type": "hardlink",
+        "sha256": "9a534da2e585223a59763b815a1c4519207f503874388b65b128631d04638717",
+        "sha256_in_prefix": "9a534da2e585223a59763b815a1c4519207f503874388b65b128631d04638717",
+        "size_in_bytes": 4607
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x057.py",
+        "path_type": "hardlink",
+        "sha256": "ba2bcdecfdddfa49289ea0404cb28e3349e2e2356fb12cc0f523841616ceb8fe",
+        "sha256_in_prefix": "ba2bcdecfdddfa49289ea0404cb28e3349e2e2356fb12cc0f523841616ceb8fe",
+        "size_in_bytes": 4627
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x058.py",
+        "path_type": "hardlink",
+        "sha256": "94f36976b14b15f681a10cfc0b09b612cb3c9b89bfe39ca5207b29394a43acb9",
+        "sha256_in_prefix": "94f36976b14b15f681a10cfc0b09b612cb3c9b89bfe39ca5207b29394a43acb9",
+        "size_in_bytes": 4664
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x059.py",
+        "path_type": "hardlink",
+        "sha256": "05d03f34542aafe686a6eca8f617babb10f09bd7da715faa9796b188aaa00729",
+        "sha256_in_prefix": "05d03f34542aafe686a6eca8f617babb10f09bd7da715faa9796b188aaa00729",
+        "size_in_bytes": 4640
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x05a.py",
+        "path_type": "hardlink",
+        "sha256": "f5414d587f05a641d402b4b6f937775583a8db5550928a985bb0344a59346214",
+        "sha256_in_prefix": "f5414d587f05a641d402b4b6f937775583a8db5550928a985bb0344a59346214",
+        "size_in_bytes": 4632
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x05b.py",
+        "path_type": "hardlink",
+        "sha256": "c9f5a745eea6b67a98ddbdc0736fc8241039bc161beb83d817d5cce07499ca05",
+        "sha256_in_prefix": "c9f5a745eea6b67a98ddbdc0736fc8241039bc161beb83d817d5cce07499ca05",
+        "size_in_bytes": 4666
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x05c.py",
+        "path_type": "hardlink",
+        "sha256": "ea2663e871e7278945de4d62ebcfbd0e081ed87dca025c99b4dc56d0122eebaa",
+        "sha256_in_prefix": "ea2663e871e7278945de4d62ebcfbd0e081ed87dca025c99b4dc56d0122eebaa",
+        "size_in_bytes": 4602
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x05d.py",
+        "path_type": "hardlink",
+        "sha256": "5ae75b6fbc4eb56af2e17bb9c66f63f34bc592280279d1aae6e1dc600625d28f",
+        "sha256_in_prefix": "5ae75b6fbc4eb56af2e17bb9c66f63f34bc592280279d1aae6e1dc600625d28f",
+        "size_in_bytes": 4660
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x05e.py",
+        "path_type": "hardlink",
+        "sha256": "c0aaafaf4964132d727d76d88f63ad5c7071c39171573fcccc950b5d6ac6bc0d",
+        "sha256_in_prefix": "c0aaafaf4964132d727d76d88f63ad5c7071c39171573fcccc950b5d6ac6bc0d",
+        "size_in_bytes": 4662
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x05f.py",
+        "path_type": "hardlink",
+        "sha256": "36748824e97ff420b8211c01210e821214dfbefcd9d8f5e16522c9b82eac8076",
+        "sha256_in_prefix": "36748824e97ff420b8211c01210e821214dfbefcd9d8f5e16522c9b82eac8076",
+        "size_in_bytes": 4656
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x060.py",
+        "path_type": "hardlink",
+        "sha256": "f808ebe90ed13ff7dd7adbd9da159f97136268ea24077ab9a1e442b7b0aa7037",
+        "sha256_in_prefix": "f808ebe90ed13ff7dd7adbd9da159f97136268ea24077ab9a1e442b7b0aa7037",
+        "size_in_bytes": 4640
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x061.py",
+        "path_type": "hardlink",
+        "sha256": "6aa398ec9b7efb8261764b54d910756dfe49d1f1f6edf4432e1579e5a47780ed",
+        "sha256_in_prefix": "6aa398ec9b7efb8261764b54d910756dfe49d1f1f6edf4432e1579e5a47780ed",
+        "size_in_bytes": 4656
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x062.py",
+        "path_type": "hardlink",
+        "sha256": "c31424bc01aba69c7863913e840542a6cd08f5bcff7db1b5612aacd44f24f6c5",
+        "sha256_in_prefix": "c31424bc01aba69c7863913e840542a6cd08f5bcff7db1b5612aacd44f24f6c5",
+        "size_in_bytes": 4616
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x063.py",
+        "path_type": "hardlink",
+        "sha256": "c007322ebf42277e46e2c3537ef61bec3b458de465ca8e7ce490b6ffe681b903",
+        "sha256_in_prefix": "c007322ebf42277e46e2c3537ef61bec3b458de465ca8e7ce490b6ffe681b903",
+        "size_in_bytes": 4648
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x064.py",
+        "path_type": "hardlink",
+        "sha256": "f1eefbe5d2add7619e772a564fd8cf5dea962e45b9f80b151b5d3a1657e24ef0",
+        "sha256_in_prefix": "f1eefbe5d2add7619e772a564fd8cf5dea962e45b9f80b151b5d3a1657e24ef0",
+        "size_in_bytes": 4651
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x065.py",
+        "path_type": "hardlink",
+        "sha256": "7cf6a4e800ea10e0453df3f6bbba40219fce6db82d74615ae1e9e68d5069b151",
+        "sha256_in_prefix": "7cf6a4e800ea10e0453df3f6bbba40219fce6db82d74615ae1e9e68d5069b151",
+        "size_in_bytes": 4634
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x066.py",
+        "path_type": "hardlink",
+        "sha256": "2ba83a5d3544144029a62967eb8bf1800d95d4531697461d6e10c9822850b130",
+        "sha256_in_prefix": "2ba83a5d3544144029a62967eb8bf1800d95d4531697461d6e10c9822850b130",
+        "size_in_bytes": 4675
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x067.py",
+        "path_type": "hardlink",
+        "sha256": "e5df332f1a21daf4bbeae05641c91719b7b28f311427968930032f340f98c4bb",
+        "sha256_in_prefix": "e5df332f1a21daf4bbeae05641c91719b7b28f311427968930032f340f98c4bb",
+        "size_in_bytes": 4627
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x068.py",
+        "path_type": "hardlink",
+        "sha256": "f9485561140642dc5025b830c87028c7e2478b3bbf46f3bb2dbe48d45f66a6f6",
+        "sha256_in_prefix": "f9485561140642dc5025b830c87028c7e2478b3bbf46f3bb2dbe48d45f66a6f6",
+        "size_in_bytes": 4670
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x069.py",
+        "path_type": "hardlink",
+        "sha256": "7114193fa646250b31e65daa49fa5ef579a20dfc651a1eeb121df4feef684d2a",
+        "sha256_in_prefix": "7114193fa646250b31e65daa49fa5ef579a20dfc651a1eeb121df4feef684d2a",
+        "size_in_bytes": 4665
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x06a.py",
+        "path_type": "hardlink",
+        "sha256": "897664bb1451b2052e365565365891ee08a8e0ce1650dd093423dd20daf36256",
+        "sha256_in_prefix": "897664bb1451b2052e365565365891ee08a8e0ce1650dd093423dd20daf36256",
+        "size_in_bytes": 4662
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x06b.py",
+        "path_type": "hardlink",
+        "sha256": "e46471bf7ea6f73475eb750dac66ff73ae3ebae78aae9ab279e4561bd64399ed",
+        "sha256_in_prefix": "e46471bf7ea6f73475eb750dac66ff73ae3ebae78aae9ab279e4561bd64399ed",
+        "size_in_bytes": 4600
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x06c.py",
+        "path_type": "hardlink",
+        "sha256": "44d2b37489ad8a6048b8bb6f6ec500cd8495ee266656f3d6c95f1d8fdd4a265c",
+        "sha256_in_prefix": "44d2b37489ad8a6048b8bb6f6ec500cd8495ee266656f3d6c95f1d8fdd4a265c",
+        "size_in_bytes": 4637
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x06d.py",
+        "path_type": "hardlink",
+        "sha256": "8c5be6c5153854749ea1a87216d1c81eaa6f7eabc96cdcefb2b0e7e0a77b5804",
+        "sha256_in_prefix": "8c5be6c5153854749ea1a87216d1c81eaa6f7eabc96cdcefb2b0e7e0a77b5804",
+        "size_in_bytes": 4647
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x06e.py",
+        "path_type": "hardlink",
+        "sha256": "d5eb09512690e10a2d7638711babedbc2dc20d68d8dab4ebe0454b0f889ff025",
+        "sha256_in_prefix": "d5eb09512690e10a2d7638711babedbc2dc20d68d8dab4ebe0454b0f889ff025",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x06f.py",
+        "path_type": "hardlink",
+        "sha256": "b3b253c3a796ffaa6a8c27350c4303435efcbed96584789e8edbdbdfad2f0d57",
+        "sha256_in_prefix": "b3b253c3a796ffaa6a8c27350c4303435efcbed96584789e8edbdbdfad2f0d57",
+        "size_in_bytes": 4638
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x070.py",
+        "path_type": "hardlink",
+        "sha256": "a0b7886a742605bcb3f0e53f979550f8f385f266395db2cbdeb7c48ebdd7914c",
+        "sha256_in_prefix": "a0b7886a742605bcb3f0e53f979550f8f385f266395db2cbdeb7c48ebdd7914c",
+        "size_in_bytes": 4677
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x071.py",
+        "path_type": "hardlink",
+        "sha256": "bf54bd13e1f4e960b4aebd7480fdbb0ea7afda7c51972984089ebcd414acf58e",
+        "sha256_in_prefix": "bf54bd13e1f4e960b4aebd7480fdbb0ea7afda7c51972984089ebcd414acf58e",
+        "size_in_bytes": 4644
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x072.py",
+        "path_type": "hardlink",
+        "sha256": "bde64e92d428250db098a28b8ead7b50ce6101adf1a379d12dd1604878eff2b2",
+        "sha256_in_prefix": "bde64e92d428250db098a28b8ead7b50ce6101adf1a379d12dd1604878eff2b2",
+        "size_in_bytes": 4645
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x073.py",
+        "path_type": "hardlink",
+        "sha256": "3569325486cd812bbf53d91ab6ed4b45a2e42fb887c786d2b91b5fb2a446e329",
+        "sha256_in_prefix": "3569325486cd812bbf53d91ab6ed4b45a2e42fb887c786d2b91b5fb2a446e329",
+        "size_in_bytes": 4642
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x074.py",
+        "path_type": "hardlink",
+        "sha256": "02872788f35931c0537a20d603a38bcd08a571631cfd91e1ee90865d3cea3128",
+        "sha256_in_prefix": "02872788f35931c0537a20d603a38bcd08a571631cfd91e1ee90865d3cea3128",
+        "size_in_bytes": 4686
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x075.py",
+        "path_type": "hardlink",
+        "sha256": "3f74ab848e41439b09eba872bbf2d60ce369bb32d92412ac97b7fe037eec2577",
+        "sha256_in_prefix": "3f74ab848e41439b09eba872bbf2d60ce369bb32d92412ac97b7fe037eec2577",
+        "size_in_bytes": 4675
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x076.py",
+        "path_type": "hardlink",
+        "sha256": "f6bc1f7b8d697a3db9d019de1c73baeb73d4f6f556cab9c74673f5d5552ac447",
+        "sha256_in_prefix": "f6bc1f7b8d697a3db9d019de1c73baeb73d4f6f556cab9c74673f5d5552ac447",
+        "size_in_bytes": 4635
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x077.py",
+        "path_type": "hardlink",
+        "sha256": "ba06e6aa2af2dbeb41b2d5d6d10f68ed71194229a96a064ad44b6dbc108ad6c1",
+        "sha256_in_prefix": "ba06e6aa2af2dbeb41b2d5d6d10f68ed71194229a96a064ad44b6dbc108ad6c1",
+        "size_in_bytes": 4673
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x078.py",
+        "path_type": "hardlink",
+        "sha256": "3717934bf7576ba8e673b883554bdeebf4aa3b80218d42e783f19e8bba6a6d11",
+        "sha256_in_prefix": "3717934bf7576ba8e673b883554bdeebf4aa3b80218d42e783f19e8bba6a6d11",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x079.py",
+        "path_type": "hardlink",
+        "sha256": "b9c3cf1ab826f809e759d54577ffee9ea89232d744a59405e84f2d6ba2337624",
+        "sha256_in_prefix": "b9c3cf1ab826f809e759d54577ffee9ea89232d744a59405e84f2d6ba2337624",
+        "size_in_bytes": 4590
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x07a.py",
+        "path_type": "hardlink",
+        "sha256": "7e3c9e3befb417929df34174c8ebc5208ba20d6ee514a59a54852a41123047d9",
+        "sha256_in_prefix": "7e3c9e3befb417929df34174c8ebc5208ba20d6ee514a59a54852a41123047d9",
+        "size_in_bytes": 4659
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x07b.py",
+        "path_type": "hardlink",
+        "sha256": "de0dfd630d9932ceffb5c0b7393d9ee271b1696318e95f2227667a3ec9e13d2e",
+        "sha256_in_prefix": "de0dfd630d9932ceffb5c0b7393d9ee271b1696318e95f2227667a3ec9e13d2e",
+        "size_in_bytes": 4667
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x07c.py",
+        "path_type": "hardlink",
+        "sha256": "09bb3df2beef7490ff631a57800018a0f740ed10d847cd8c5cde384d0271a0df",
+        "sha256_in_prefix": "09bb3df2beef7490ff631a57800018a0f740ed10d847cd8c5cde384d0271a0df",
+        "size_in_bytes": 4647
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x07d.py",
+        "path_type": "hardlink",
+        "sha256": "10a16b4d04cd14b1a7b26dea23be802f1af1182703bb211b6a98bd8fd8f2d41e",
+        "sha256_in_prefix": "10a16b4d04cd14b1a7b26dea23be802f1af1182703bb211b6a98bd8fd8f2d41e",
+        "size_in_bytes": 4678
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x07e.py",
+        "path_type": "hardlink",
+        "sha256": "afde980641e808ef0602f3b48f705d638e51765364aa98855a5f90ea689e55c7",
+        "sha256_in_prefix": "afde980641e808ef0602f3b48f705d638e51765364aa98855a5f90ea689e55c7",
+        "size_in_bytes": 4680
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x07f.py",
+        "path_type": "hardlink",
+        "sha256": "30d454e1a34e13674a978a74fd63f2fa881afdcc7bc19eb0e0c964f913773de5",
+        "sha256_in_prefix": "30d454e1a34e13674a978a74fd63f2fa881afdcc7bc19eb0e0c964f913773de5",
+        "size_in_bytes": 4658
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x080.py",
+        "path_type": "hardlink",
+        "sha256": "f5f78856809d385a252a065f442a5d2fcd25f6446f8db974cfdb15e05024d908",
+        "sha256_in_prefix": "f5f78856809d385a252a065f442a5d2fcd25f6446f8db974cfdb15e05024d908",
+        "size_in_bytes": 4643
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x081.py",
+        "path_type": "hardlink",
+        "sha256": "7dfbe994294a4c20eb7bcdcc84eefe5f7b6075459f8ef9143314023c49d18ff5",
+        "sha256_in_prefix": "7dfbe994294a4c20eb7bcdcc84eefe5f7b6075459f8ef9143314023c49d18ff5",
+        "size_in_bytes": 4671
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x082.py",
+        "path_type": "hardlink",
+        "sha256": "5d31528d93bc2cedd215c621f61f8ea9bcba6baee1143c7807e010472a6d9495",
+        "sha256_in_prefix": "5d31528d93bc2cedd215c621f61f8ea9bcba6baee1143c7807e010472a6d9495",
+        "size_in_bytes": 4641
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x083.py",
+        "path_type": "hardlink",
+        "sha256": "c173f5959640adabc9666d5fd5b093d5cba6a1c146446d1942680531508e4834",
+        "sha256_in_prefix": "c173f5959640adabc9666d5fd5b093d5cba6a1c146446d1942680531508e4834",
+        "size_in_bytes": 4635
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x084.py",
+        "path_type": "hardlink",
+        "sha256": "8a70393836abf330217ab2de4f25fdf8ab4250ead38a0c43c1bdde8b62a5d421",
+        "sha256_in_prefix": "8a70393836abf330217ab2de4f25fdf8ab4250ead38a0c43c1bdde8b62a5d421",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x085.py",
+        "path_type": "hardlink",
+        "sha256": "40328afb06dbd389c215cf75a521a1c87b31712fcc85d7902ec46aa97855f61f",
+        "sha256_in_prefix": "40328afb06dbd389c215cf75a521a1c87b31712fcc85d7902ec46aa97855f61f",
+        "size_in_bytes": 4628
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x086.py",
+        "path_type": "hardlink",
+        "sha256": "0dc5e125e9972a0ac6c0f0511426c83717f16adaa3a72ee316033d8db37c7849",
+        "sha256_in_prefix": "0dc5e125e9972a0ac6c0f0511426c83717f16adaa3a72ee316033d8db37c7849",
+        "size_in_bytes": 4608
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x087.py",
+        "path_type": "hardlink",
+        "sha256": "9dd76a32a85eb61fa7ee41c2ca344dbd53cef36508fcf74e89cd6441eaff885d",
+        "sha256_in_prefix": "9dd76a32a85eb61fa7ee41c2ca344dbd53cef36508fcf74e89cd6441eaff885d",
+        "size_in_bytes": 4641
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x088.py",
+        "path_type": "hardlink",
+        "sha256": "d0f54bd7ad1fa50f8a930dbd5fe6cbbe2c9fb384ca200c29ffe4b0116b2f7a63",
+        "sha256_in_prefix": "d0f54bd7ad1fa50f8a930dbd5fe6cbbe2c9fb384ca200c29ffe4b0116b2f7a63",
+        "size_in_bytes": 4639
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x089.py",
+        "path_type": "hardlink",
+        "sha256": "46b206217e9da23af269887a0dae32b1a33ffb24446cd67e1dab055f63bf4907",
+        "sha256_in_prefix": "46b206217e9da23af269887a0dae32b1a33ffb24446cd67e1dab055f63bf4907",
+        "size_in_bytes": 4624
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x08a.py",
+        "path_type": "hardlink",
+        "sha256": "363329f5c93cdb83d71b681c2577e2ffda1008581786189a9653b76d80ad5c21",
+        "sha256_in_prefix": "363329f5c93cdb83d71b681c2577e2ffda1008581786189a9653b76d80ad5c21",
+        "size_in_bytes": 4647
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x08b.py",
+        "path_type": "hardlink",
+        "sha256": "bd4c241bf20e048841f204006956e00f9100200d706380413e4e645f001c3e0d",
+        "sha256_in_prefix": "bd4c241bf20e048841f204006956e00f9100200d706380413e4e645f001c3e0d",
+        "size_in_bytes": 4639
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x08c.py",
+        "path_type": "hardlink",
+        "sha256": "d2c1dc09707d6335c4f6825cc333ed3d496d0a7e8ea3e8ad758e6f93a31bb5d0",
+        "sha256_in_prefix": "d2c1dc09707d6335c4f6825cc333ed3d496d0a7e8ea3e8ad758e6f93a31bb5d0",
+        "size_in_bytes": 4628
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x08d.py",
+        "path_type": "hardlink",
+        "sha256": "4960fbc52211fb53f7d12e7ecae3431e95635a5a5fc66531b89afb7f5efc5ac0",
+        "sha256_in_prefix": "4960fbc52211fb53f7d12e7ecae3431e95635a5a5fc66531b89afb7f5efc5ac0",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x08e.py",
+        "path_type": "hardlink",
+        "sha256": "626d1141476c81925d566388e7a9f34a6cdfc6e2a3b92e4c51b3d239ecafd96b",
+        "sha256_in_prefix": "626d1141476c81925d566388e7a9f34a6cdfc6e2a3b92e4c51b3d239ecafd96b",
+        "size_in_bytes": 4655
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x08f.py",
+        "path_type": "hardlink",
+        "sha256": "b4d1699c4ccd2c8638c476dc474ad9a9aa0d50a8a78fe5ced977d29e1e9ce2ee",
+        "sha256_in_prefix": "b4d1699c4ccd2c8638c476dc474ad9a9aa0d50a8a78fe5ced977d29e1e9ce2ee",
+        "size_in_bytes": 4649
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x090.py",
+        "path_type": "hardlink",
+        "sha256": "5c6a2624dae2359b07411503cb7bcac057385b7f2ec5ea96a67e521cce06e23f",
+        "sha256_in_prefix": "5c6a2624dae2359b07411503cb7bcac057385b7f2ec5ea96a67e521cce06e23f",
+        "size_in_bytes": 4627
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x091.py",
+        "path_type": "hardlink",
+        "sha256": "bbcb5166169535ada66ec0d26082aa459deee0da63fa48b3e79ac2f62cda7673",
+        "sha256_in_prefix": "bbcb5166169535ada66ec0d26082aa459deee0da63fa48b3e79ac2f62cda7673",
+        "size_in_bytes": 4653
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x092.py",
+        "path_type": "hardlink",
+        "sha256": "36f35c7bccb760594f236d293756b82d8ebcb227790297ad5ecf5ba3d7316fbc",
+        "sha256_in_prefix": "36f35c7bccb760594f236d293756b82d8ebcb227790297ad5ecf5ba3d7316fbc",
+        "size_in_bytes": 4644
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x093.py",
+        "path_type": "hardlink",
+        "sha256": "3b67b5a79f110754d2d80bbe2528dfb771603c1c75611006c67be2a92b1f9d81",
+        "sha256_in_prefix": "3b67b5a79f110754d2d80bbe2528dfb771603c1c75611006c67be2a92b1f9d81",
+        "size_in_bytes": 4646
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x094.py",
+        "path_type": "hardlink",
+        "sha256": "93c67035cf6a092cd4d9bf3032b5947864a0dfdb4f322c222870a22b0eb3b5e3",
+        "sha256_in_prefix": "93c67035cf6a092cd4d9bf3032b5947864a0dfdb4f322c222870a22b0eb3b5e3",
+        "size_in_bytes": 4653
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x095.py",
+        "path_type": "hardlink",
+        "sha256": "1f63b7c490c4ddc00e79cc983144e5e9f2ecf6c8444cf17066c86d2082b95771",
+        "sha256_in_prefix": "1f63b7c490c4ddc00e79cc983144e5e9f2ecf6c8444cf17066c86d2082b95771",
+        "size_in_bytes": 4667
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x096.py",
+        "path_type": "hardlink",
+        "sha256": "b1ebf7cd19b8e84050804b644784fe021d1c1d810cfbd08cda914209cdb50452",
+        "sha256_in_prefix": "b1ebf7cd19b8e84050804b644784fe021d1c1d810cfbd08cda914209cdb50452",
+        "size_in_bytes": 4608
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x097.py",
+        "path_type": "hardlink",
+        "sha256": "4b59d905db7e307c92080815f4c0dd352413092683eb6880873f048e291f4b90",
+        "sha256_in_prefix": "4b59d905db7e307c92080815f4c0dd352413092683eb6880873f048e291f4b90",
+        "size_in_bytes": 4633
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x098.py",
+        "path_type": "hardlink",
+        "sha256": "c3428cc5417b5f21bd81d7d3272958b06fdc96f9b7443fcb20ce571d1d31b1d6",
+        "sha256_in_prefix": "c3428cc5417b5f21bd81d7d3272958b06fdc96f9b7443fcb20ce571d1d31b1d6",
+        "size_in_bytes": 4643
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x099.py",
+        "path_type": "hardlink",
+        "sha256": "9e56966f69d14d29c57c38ec783449d5add8d2890e1db340d7e86d2a8f529003",
+        "sha256_in_prefix": "9e56966f69d14d29c57c38ec783449d5add8d2890e1db340d7e86d2a8f529003",
+        "size_in_bytes": 4627
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x09a.py",
+        "path_type": "hardlink",
+        "sha256": "67ca50b1373ad825a09b424f9e3de4a2428a7fdfea7f3469a34bb9887eb509a1",
+        "sha256_in_prefix": "67ca50b1373ad825a09b424f9e3de4a2428a7fdfea7f3469a34bb9887eb509a1",
+        "size_in_bytes": 4623
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x09b.py",
+        "path_type": "hardlink",
+        "sha256": "9e303be4c942802fb952e4b51ef9be99d82c5705bdafcd35a1d7c14c983e0451",
+        "sha256_in_prefix": "9e303be4c942802fb952e4b51ef9be99d82c5705bdafcd35a1d7c14c983e0451",
+        "size_in_bytes": 4653
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x09c.py",
+        "path_type": "hardlink",
+        "sha256": "36f78c84df39fc29b81f57277c70d37274a3ebbe4c39506af4b923a70dd8c40d",
+        "sha256_in_prefix": "36f78c84df39fc29b81f57277c70d37274a3ebbe4c39506af4b923a70dd8c40d",
+        "size_in_bytes": 4659
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x09d.py",
+        "path_type": "hardlink",
+        "sha256": "ff47c069484addac618562c0e103cd25ffc9f584acd4c08ac76c51faf9794182",
+        "sha256_in_prefix": "ff47c069484addac618562c0e103cd25ffc9f584acd4c08ac76c51faf9794182",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x09e.py",
+        "path_type": "hardlink",
+        "sha256": "c2b7844c509e29ff5b56f2dcdc4ecc500be5bb608de7129e79b7f7112b95d77b",
+        "sha256_in_prefix": "c2b7844c509e29ff5b56f2dcdc4ecc500be5bb608de7129e79b7f7112b95d77b",
+        "size_in_bytes": 4613
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x09f.py",
+        "path_type": "hardlink",
+        "sha256": "a4d01d5fbfbdc8c10f5eda338c2b97c7373be1e0957edf6678e4f10ad53bbc9c",
+        "sha256_in_prefix": "a4d01d5fbfbdc8c10f5eda338c2b97c7373be1e0957edf6678e4f10ad53bbc9c",
+        "size_in_bytes": 4420
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0a0.py",
+        "path_type": "hardlink",
+        "sha256": "129a293eeba87326e009ca57d7d222fae76ab0f5c98d271eb37dfad25a89f2fb",
+        "sha256_in_prefix": "129a293eeba87326e009ca57d7d222fae76ab0f5c98d271eb37dfad25a89f2fb",
+        "size_in_bytes": 4428
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0a1.py",
+        "path_type": "hardlink",
+        "sha256": "d21bc5efb77913ae344ae8e374756acb980c507f3980474ebfcd1e46f0840063",
+        "sha256_in_prefix": "d21bc5efb77913ae344ae8e374756acb980c507f3980474ebfcd1e46f0840063",
+        "size_in_bytes": 4469
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0a2.py",
+        "path_type": "hardlink",
+        "sha256": "f487297e4fc495e6d877fc4dd3d38cce216ba4018f5c450d5666b0a6785b05a4",
+        "sha256_in_prefix": "f487297e4fc495e6d877fc4dd3d38cce216ba4018f5c450d5666b0a6785b05a4",
+        "size_in_bytes": 4503
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0a3.py",
+        "path_type": "hardlink",
+        "sha256": "1b594fae70aa633d2ce30b126b5a8cd1682b64158efdb7919370202b489564b0",
+        "sha256_in_prefix": "1b594fae70aa633d2ce30b126b5a8cd1682b64158efdb7919370202b489564b0",
+        "size_in_bytes": 4521
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0a4.py",
+        "path_type": "hardlink",
+        "sha256": "9d63d7cc2ada816d2bb0340f6baa28a3d28e73e48e8d508ff0a20eb8673b5a95",
+        "sha256_in_prefix": "9d63d7cc2ada816d2bb0340f6baa28a3d28e73e48e8d508ff0a20eb8673b5a95",
+        "size_in_bytes": 4373
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0ac.py",
+        "path_type": "hardlink",
+        "sha256": "c23ee197cf1594275cfde1a938be26e0204920bc90a9df5ab4e6c2e57bddd1a0",
+        "sha256_in_prefix": "c23ee197cf1594275cfde1a938be26e0204920bc90a9df5ab4e6c2e57bddd1a0",
+        "size_in_bytes": 4709
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0ad.py",
+        "path_type": "hardlink",
+        "sha256": "473e6b9f47ccf82a918da3784ef4aaff54ad010772005d965f7714bdc4076965",
+        "sha256_in_prefix": "473e6b9f47ccf82a918da3784ef4aaff54ad010772005d965f7714bdc4076965",
+        "size_in_bytes": 4766
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0ae.py",
+        "path_type": "hardlink",
+        "sha256": "8cd201541f8fc3664d8a101ec966c3204abd62df7396175f1b295fbc06b1524b",
+        "sha256_in_prefix": "8cd201541f8fc3664d8a101ec966c3204abd62df7396175f1b295fbc06b1524b",
+        "size_in_bytes": 4875
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0af.py",
+        "path_type": "hardlink",
+        "sha256": "026e580bc65faee9f93542b153a2eb536f9de4682419206cedf66ddaba928bbe",
+        "sha256_in_prefix": "026e580bc65faee9f93542b153a2eb536f9de4682419206cedf66ddaba928bbe",
+        "size_in_bytes": 5012
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b0.py",
+        "path_type": "hardlink",
+        "sha256": "d5b8077ab08302a21c24761e19d7498c97d15a21c22ad53607427e5c6bdc6db7",
+        "sha256_in_prefix": "d5b8077ab08302a21c24761e19d7498c97d15a21c22ad53607427e5c6bdc6db7",
+        "size_in_bytes": 4853
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b1.py",
+        "path_type": "hardlink",
+        "sha256": "4a2c7e97319dbe0271e18b086b4953bac9c1115d736c22900aabaad7b4c32684",
+        "sha256_in_prefix": "4a2c7e97319dbe0271e18b086b4953bac9c1115d736c22900aabaad7b4c32684",
+        "size_in_bytes": 4746
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b2.py",
+        "path_type": "hardlink",
+        "sha256": "1d00db9a094d8b841f891486b9c51c960abfe051a94636c99165352532c01467",
+        "sha256_in_prefix": "1d00db9a094d8b841f891486b9c51c960abfe051a94636c99165352532c01467",
+        "size_in_bytes": 4680
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b3.py",
+        "path_type": "hardlink",
+        "sha256": "d65ab18215598a24ad380c75206fef735cd94d7ac06bb67ffd063a656be8d9a0",
+        "sha256_in_prefix": "d65ab18215598a24ad380c75206fef735cd94d7ac06bb67ffd063a656be8d9a0",
+        "size_in_bytes": 4741
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b4.py",
+        "path_type": "hardlink",
+        "sha256": "57a04d493c69c8ff15baa17bc79cfb6e9177310024c197cab44bba345affbd28",
+        "sha256_in_prefix": "57a04d493c69c8ff15baa17bc79cfb6e9177310024c197cab44bba345affbd28",
+        "size_in_bytes": 4762
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b5.py",
+        "path_type": "hardlink",
+        "sha256": "f4d55dda134bc9194b71e565ce76dad5dadea8119e294ff48339a4800c348328",
+        "sha256_in_prefix": "f4d55dda134bc9194b71e565ce76dad5dadea8119e294ff48339a4800c348328",
+        "size_in_bytes": 4919
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b6.py",
+        "path_type": "hardlink",
+        "sha256": "57fbd1b01d06202bbd86a84ee299db3d6ade0d27af2776db98b44992e414c671",
+        "sha256_in_prefix": "57fbd1b01d06202bbd86a84ee299db3d6ade0d27af2776db98b44992e414c671",
+        "size_in_bytes": 4996
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b7.py",
+        "path_type": "hardlink",
+        "sha256": "0b005a081202c956a09c58d4a64c1a6ee0ef049c3b8007aa9124697c1015bfcb",
+        "sha256_in_prefix": "0b005a081202c956a09c58d4a64c1a6ee0ef049c3b8007aa9124697c1015bfcb",
+        "size_in_bytes": 4833
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b8.py",
+        "path_type": "hardlink",
+        "sha256": "c58a7ec72d8b230abde4e5b24bdbd831cfd9e6877d76e7745b57717a0e0ffc99",
+        "sha256_in_prefix": "c58a7ec72d8b230abde4e5b24bdbd831cfd9e6877d76e7745b57717a0e0ffc99",
+        "size_in_bytes": 4714
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0b9.py",
+        "path_type": "hardlink",
+        "sha256": "cf784a37306afcc78af55dc0c90cda639f1c822d3e5463ac2e4dfe5059acccb4",
+        "sha256_in_prefix": "cf784a37306afcc78af55dc0c90cda639f1c822d3e5463ac2e4dfe5059acccb4",
+        "size_in_bytes": 4704
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0ba.py",
+        "path_type": "hardlink",
+        "sha256": "e20b9b89fa01789514af05c4238962b49ca07a4b9f1327265832eb27e42fb35e",
+        "sha256_in_prefix": "e20b9b89fa01789514af05c4238962b49ca07a4b9f1327265832eb27e42fb35e",
+        "size_in_bytes": 4765
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0bb.py",
+        "path_type": "hardlink",
+        "sha256": "6ec09300151d0bac939fcff4be161ee6344fd73fc1a007627e2701f18d5cd610",
+        "sha256_in_prefix": "6ec09300151d0bac939fcff4be161ee6344fd73fc1a007627e2701f18d5cd610",
+        "size_in_bytes": 4730
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0bc.py",
+        "path_type": "hardlink",
+        "sha256": "02142f033ef21e56d0ff873628e222b2ad3b7992792509fa715f08df5a13f648",
+        "sha256_in_prefix": "02142f033ef21e56d0ff873628e222b2ad3b7992792509fa715f08df5a13f648",
+        "size_in_bytes": 4707
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0bd.py",
+        "path_type": "hardlink",
+        "sha256": "206b72571214af5994de1a249fa8940c985765ecd0a3356f7d63b27f83dae5d2",
+        "sha256_in_prefix": "206b72571214af5994de1a249fa8940c985765ecd0a3356f7d63b27f83dae5d2",
+        "size_in_bytes": 4752
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0be.py",
+        "path_type": "hardlink",
+        "sha256": "d43fa15eede9df0bce9c654c8c4a95b2b96d61eed4b92c22b76caa3797858b37",
+        "sha256_in_prefix": "d43fa15eede9df0bce9c654c8c4a95b2b96d61eed4b92c22b76caa3797858b37",
+        "size_in_bytes": 4849
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0bf.py",
+        "path_type": "hardlink",
+        "sha256": "364117aabd8447704d1644dab0357d0879e4441b97fc0a393871affcd80a01ec",
+        "sha256_in_prefix": "364117aabd8447704d1644dab0357d0879e4441b97fc0a393871affcd80a01ec",
+        "size_in_bytes": 5010
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c0.py",
+        "path_type": "hardlink",
+        "sha256": "cc3947a72334a26cdae53a862dbf11865ed677e2e5575023bc7ff1767127345c",
+        "sha256_in_prefix": "cc3947a72334a26cdae53a862dbf11865ed677e2e5575023bc7ff1767127345c",
+        "size_in_bytes": 4856
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c1.py",
+        "path_type": "hardlink",
+        "sha256": "002eb1272c7d51b94a00636a18dec01f621d6f7ff7bdb73e2395343328a0e5f0",
+        "sha256_in_prefix": "002eb1272c7d51b94a00636a18dec01f621d6f7ff7bdb73e2395343328a0e5f0",
+        "size_in_bytes": 4765
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c2.py",
+        "path_type": "hardlink",
+        "sha256": "b224582c0f02bfd67c5ec469dd640e05d46b3e48c93ae121f33d7edd23173b34",
+        "sha256_in_prefix": "b224582c0f02bfd67c5ec469dd640e05d46b3e48c93ae121f33d7edd23173b34",
+        "size_in_bytes": 4710
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c3.py",
+        "path_type": "hardlink",
+        "sha256": "8650057ba96ccf468b322c65a5e16357823e593222037076054e7cc86953c118",
+        "sha256_in_prefix": "8650057ba96ccf468b322c65a5e16357823e593222037076054e7cc86953c118",
+        "size_in_bytes": 4975
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c4.py",
+        "path_type": "hardlink",
+        "sha256": "cf7c59c1291fe6bbb51427413073abe5fca097355dc8f85056d5a3abdc489ec4",
+        "sha256_in_prefix": "cf7c59c1291fe6bbb51427413073abe5fca097355dc8f85056d5a3abdc489ec4",
+        "size_in_bytes": 5024
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c5.py",
+        "path_type": "hardlink",
+        "sha256": "17e0d1d1e54c4647a63a73573ad0e32398ba816f75dfa5cb99633fc8c56f73ce",
+        "sha256_in_prefix": "17e0d1d1e54c4647a63a73573ad0e32398ba816f75dfa5cb99633fc8c56f73ce",
+        "size_in_bytes": 4581
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c6.py",
+        "path_type": "hardlink",
+        "sha256": "ee9fe332b1dfdd651aff300d9acf911953756c07ac86058b902d7afd57126b00",
+        "sha256_in_prefix": "ee9fe332b1dfdd651aff300d9acf911953756c07ac86058b902d7afd57126b00",
+        "size_in_bytes": 4490
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c7.py",
+        "path_type": "hardlink",
+        "sha256": "e5e380ab88c5b0f67ecca3bb947cc01a3fc4bd775a302e0ab9dee0bc4f81ed38",
+        "sha256_in_prefix": "e5e380ab88c5b0f67ecca3bb947cc01a3fc4bd775a302e0ab9dee0bc4f81ed38",
+        "size_in_bytes": 4564
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c8.py",
+        "path_type": "hardlink",
+        "sha256": "c25b4abe10609f9d6350bcf052711b9b20ee2bd26f42941e7b4b9328ae36fb6d",
+        "sha256_in_prefix": "c25b4abe10609f9d6350bcf052711b9b20ee2bd26f42941e7b4b9328ae36fb6d",
+        "size_in_bytes": 4733
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0c9.py",
+        "path_type": "hardlink",
+        "sha256": "1a801138dd3bc02a07376c111dbe5fbf3a84f4bdd899eda129e722ca75080089",
+        "sha256_in_prefix": "1a801138dd3bc02a07376c111dbe5fbf3a84f4bdd899eda129e722ca75080089",
+        "size_in_bytes": 4722
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0ca.py",
+        "path_type": "hardlink",
+        "sha256": "06c0594cd8f79e9224768dcbf694845fb5ef0d3ebc295ef016d38ec3211bd92a",
+        "sha256_in_prefix": "06c0594cd8f79e9224768dcbf694845fb5ef0d3ebc295ef016d38ec3211bd92a",
+        "size_in_bytes": 5007
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0cb.py",
+        "path_type": "hardlink",
+        "sha256": "f13eef9c93119981b2c9262d84c5b3d1b80df8cade9a4b462268de8e874578ca",
+        "sha256_in_prefix": "f13eef9c93119981b2c9262d84c5b3d1b80df8cade9a4b462268de8e874578ca",
+        "size_in_bytes": 5012
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0cc.py",
+        "path_type": "hardlink",
+        "sha256": "18aa0737ee2f2f863710be361b4c5b37be1382ca5ec35a0cbf142db086b77acb",
+        "sha256_in_prefix": "18aa0737ee2f2f863710be361b4c5b37be1382ca5ec35a0cbf142db086b77acb",
+        "size_in_bytes": 4749
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0cd.py",
+        "path_type": "hardlink",
+        "sha256": "eec674e4e8ee81b6a899b3110d8395c60b2d65b5cc72e5f990716178abf85b61",
+        "sha256_in_prefix": "eec674e4e8ee81b6a899b3110d8395c60b2d65b5cc72e5f990716178abf85b61",
+        "size_in_bytes": 4738
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0ce.py",
+        "path_type": "hardlink",
+        "sha256": "98e10716bb00c08bdc4e787b38a54ae6a6ee5d45c77c9391ec3e05b57b1099aa",
+        "sha256_in_prefix": "98e10716bb00c08bdc4e787b38a54ae6a6ee5d45c77c9391ec3e05b57b1099aa",
+        "size_in_bytes": 4708
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0cf.py",
+        "path_type": "hardlink",
+        "sha256": "1fd3de61c6ce1baf05ff273bcec10b52e374e4035f14d3945fe7b7fa0cf1ecec",
+        "sha256_in_prefix": "1fd3de61c6ce1baf05ff273bcec10b52e374e4035f14d3945fe7b7fa0cf1ecec",
+        "size_in_bytes": 4713
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d0.py",
+        "path_type": "hardlink",
+        "sha256": "7942ea7061cf99aa04765d04c11079c164aef0ce376e9e07a05a3980696369c8",
+        "sha256_in_prefix": "7942ea7061cf99aa04765d04c11079c164aef0ce376e9e07a05a3980696369c8",
+        "size_in_bytes": 4706
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d1.py",
+        "path_type": "hardlink",
+        "sha256": "04294b0c08cf82c017e8c242b2e1df99fba11fda9fcd4cbfbdbf9df7306cdce7",
+        "sha256_in_prefix": "04294b0c08cf82c017e8c242b2e1df99fba11fda9fcd4cbfbdbf9df7306cdce7",
+        "size_in_bytes": 4767
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d2.py",
+        "path_type": "hardlink",
+        "sha256": "7bbe27a86a38138b05d6ccbca8116ed9e716a117c97685c8d7144544fa98133f",
+        "sha256_in_prefix": "7bbe27a86a38138b05d6ccbca8116ed9e716a117c97685c8d7144544fa98133f",
+        "size_in_bytes": 4724
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d3.py",
+        "path_type": "hardlink",
+        "sha256": "f3e526bc9dfe20b5e8f5ddc603e45e384e0e7d47a72f7b55509625759f601eed",
+        "sha256_in_prefix": "f3e526bc9dfe20b5e8f5ddc603e45e384e0e7d47a72f7b55509625759f601eed",
+        "size_in_bytes": 4705
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d4.py",
+        "path_type": "hardlink",
+        "sha256": "7f0526ce4b2875d4ca07c7c7dab64cc512b7a49b4baf185cad8a477c16ae0301",
+        "sha256_in_prefix": "7f0526ce4b2875d4ca07c7c7dab64cc512b7a49b4baf185cad8a477c16ae0301",
+        "size_in_bytes": 4758
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d5.py",
+        "path_type": "hardlink",
+        "sha256": "ac03522f99ddccb812818250344c39ec07d7a627117bba6f1d194a4cf6f8f904",
+        "sha256_in_prefix": "ac03522f99ddccb812818250344c39ec07d7a627117bba6f1d194a4cf6f8f904",
+        "size_in_bytes": 4680
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d6.py",
+        "path_type": "hardlink",
+        "sha256": "7d3f3f711ce9ef2eb4208867f3b90cf652de84a180839c1899f14ec201a9e9ed",
+        "sha256_in_prefix": "7d3f3f711ce9ef2eb4208867f3b90cf652de84a180839c1899f14ec201a9e9ed",
+        "size_in_bytes": 4765
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0d7.py",
+        "path_type": "hardlink",
+        "sha256": "e34fa6eee28dbf295609c541b935eb6e23fa2eb8ffe1de0f5a02dc5fcebbd0a9",
+        "sha256_in_prefix": "e34fa6eee28dbf295609c541b935eb6e23fa2eb8ffe1de0f5a02dc5fcebbd0a9",
+        "size_in_bytes": 4468
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0f9.py",
+        "path_type": "hardlink",
+        "sha256": "d8f0f4fdfa439da14ef5fb480a36123a19e301f069a63b23d5370b22e6239c22",
+        "sha256_in_prefix": "d8f0f4fdfa439da14ef5fb480a36123a19e301f069a63b23d5370b22e6239c22",
+        "size_in_bytes": 4567
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0fa.py",
+        "path_type": "hardlink",
+        "sha256": "5c7c427d73a11c3ab38c6d0dc3a9f5b13e50fcc28b0a8bcf15efb6d884315575",
+        "sha256_in_prefix": "5c7c427d73a11c3ab38c6d0dc3a9f5b13e50fcc28b0a8bcf15efb6d884315575",
+        "size_in_bytes": 4172
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0fb.py",
+        "path_type": "hardlink",
+        "sha256": "9ffe6ead15e3e8471fd0c28c9eec0d63450ae9326d516da129c34b42a6b619ff",
+        "sha256_in_prefix": "9ffe6ead15e3e8471fd0c28c9eec0d63450ae9326d516da129c34b42a6b619ff",
+        "size_in_bytes": 3787
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0fc.py",
+        "path_type": "hardlink",
+        "sha256": "29cc909f2bfb83135e55c02747042b9b836569b644dc2ae79ad2ea5e3ffbb5ef",
+        "sha256_in_prefix": "29cc909f2bfb83135e55c02747042b9b836569b644dc2ae79ad2ea5e3ffbb5ef",
+        "size_in_bytes": 3595
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0fd.py",
+        "path_type": "hardlink",
+        "sha256": "9951ccad7f00851cf00a430d038b09921c22acadc1aa636fe9865fc82a44f48b",
+        "sha256_in_prefix": "9951ccad7f00851cf00a430d038b09921c22acadc1aa636fe9865fc82a44f48b",
+        "size_in_bytes": 3703
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0fe.py",
+        "path_type": "hardlink",
+        "sha256": "0ab77050e7f4b25f3251f3859d7397159f14ebad9d41386918cc0606463c709e",
+        "sha256_in_prefix": "0ab77050e7f4b25f3251f3859d7397159f14ebad9d41386918cc0606463c709e",
+        "size_in_bytes": 3769
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x0ff.py",
+        "path_type": "hardlink",
+        "sha256": "2237efe55543093591cd1ab03184a9d1f4b2732d7bea09fb3fcbadf31ddbbfec",
+        "sha256_in_prefix": "2237efe55543093591cd1ab03184a9d1f4b2732d7bea09fb3fcbadf31ddbbfec",
+        "size_in_bytes": 3957
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x1d4.py",
+        "path_type": "hardlink",
+        "sha256": "c732f43a2711f79216aba2e202920f1203e8493f1dc95818b88506c64cf56f6f",
+        "sha256_in_prefix": "c732f43a2711f79216aba2e202920f1203e8493f1dc95818b88506c64cf56f6f",
+        "size_in_bytes": 3863
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x1d5.py",
+        "path_type": "hardlink",
+        "sha256": "6e64d24e05a7b0b3fbc940d9ab622bb73f38666edb98bcd8ceead8d1e234b885",
+        "sha256_in_prefix": "6e64d24e05a7b0b3fbc940d9ab622bb73f38666edb98bcd8ceead8d1e234b885",
+        "size_in_bytes": 3863
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x1d6.py",
+        "path_type": "hardlink",
+        "sha256": "f07d119847db63cd97d62430af4bdcb204060af18abf5f7fefbdcafd3d8d2360",
+        "sha256_in_prefix": "f07d119847db63cd97d62430af4bdcb204060af18abf5f7fefbdcafd3d8d2360",
+        "size_in_bytes": 4052
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x1d7.py",
+        "path_type": "hardlink",
+        "sha256": "cb21d5d9d0a8d69fe6fd0560cf51fd4ba5ea7a237d1a91b107e66a016ee5e6db",
+        "sha256_in_prefix": "cb21d5d9d0a8d69fe6fd0560cf51fd4ba5ea7a237d1a91b107e66a016ee5e6db",
+        "size_in_bytes": 4057
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x1f1.py",
+        "path_type": "hardlink",
+        "sha256": "5115fd17a50f814a38fada6bedb84f9b81b9aee143a12716e5b64bc3347cf188",
+        "sha256_in_prefix": "5115fd17a50f814a38fada6bedb84f9b81b9aee143a12716e5b64bc3347cf188",
+        "size_in_bytes": 4308
+      },
+      {
+        "_path": "lib/python3.9/site-packages/unidecode/x1f6.py",
+        "path_type": "hardlink",
+        "sha256": "262e2df84166266a37083799d320fba57e7c863e5f41073df533ab0fec9a77d9",
+        "sha256_in_prefix": "262e2df84166266a37083799d320fba57e7c863e5f41073df533ab0fec9a77d9",
+        "size_in_bytes": 4103
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "57e8e2f2b73d024384abfe03f83261488868da9e24e8e3119803cf35154ed37c",
+  "size": 282203,
+  "subdir": "linux-64",
+  "timestamp": 1724790137000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/unidecode-1.3.8-py39h06a4308_0.conda",
+  "version": "1.3.8"
+}
